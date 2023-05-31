@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   Một blog, chia sẻ kiến thức trí tuệ nhân tạo của Salmon
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "salmon.com"
+url: "https://appsalmon.github.io/"
 
 github:
-  username: github_username # change to your github username
+  username: AppSalmon # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
