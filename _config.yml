@@ -20,7 +20,7 @@ timezone: Asia/Ho_Chi_Minh
 
 title: Salmon # the main title
 
-tagline: Kinh nghiệm, kiến thức và sản phẩm về Trí tuệ nhân tạo # it will display as the sub-title
+tagline: Sản phẩm, kinh nghiệm, kiến thức của tôi về Trí tuệ nhân tạo # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Một blog, chia sẻ kiến thức trí tuệ nhân tạo của Salmon
