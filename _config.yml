@@ -18,9 +18,9 @@ timezone: Asia/Ho_Chi_Minh
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Hoàng Tuấn (Salmon) # the main title
+title: Salmon # the main title
 
-tagline: Nơi để tôi chia sẻ về kinh nghiệm, kiến thức và sản phẩm của mình # it will display as the sub-title
+tagline: kinh nghiệm, kiến thức và sản phẩm về Trí tuệ nhân tạo # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Một blog, chia sẻ kiến thức trí tuệ nhân tạo của Salmon
