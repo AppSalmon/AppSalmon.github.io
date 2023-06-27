@@ -88,24 +88,49 @@ avatar: https://avatars.githubusercontent.com/u/120777599?s=400&u=8dee65b608a441
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
-  # The active options are as follows:
+  active: # 帖子评论区全局开关，例如，'disqus'。保持为空表示禁用
+  # active 选项可以是如下：
+  # disqus 评论系统 > https://disqus.com/
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-  # utterances settings › https://utteranc.es/
+    shortname: # 填入你的 disqus shorname › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  # utterances 评论系统 › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
-  # Giscus options › https://giscus.app
+    repo: # <Github 用户名>/<仓库名>
+    issue_term: # < 链接 | 路径 | 标题 | ...>
+  # Waline 评论系统 › https://waline.js.org/
+  waline:
+    server: # Vercal 服务端地址
+    placeholder: 说点什么吧！ # 空白评论框时显示的文字
+    avatar: mp # 默认头像  › https://waline.js.org/guide/client/avatar.html
+  # Giscus 选项 › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo: # <Github 用户名>/<仓库名>
     repo_id:
     category:
     category_id:
-    mapping: # optional, default to 'pathname'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    mapping: # 可选项，默认为 'pathname'
+    input_position: # 可选项，默认为 'bottom'
+    lang: # 可选项，默认为 `site.lang` 的值
+    reactions_enabled: # 可选项，默认为 1
+# comments:
+#   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+#   # The active options are as follows:
+#   disqus:
+#     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+#   # utterances settings › https://utteranc.es/
+#   utterances:
+#     repo: # <gh-username>/<repo>
+#     issue_term: # < url | pathname | title | ...>
+#   # Giscus options › https://giscus.app
+#   giscus:
+#     repo: # <gh-username>/<repo>
+#     repo_id:
+#     category:
+#     category_id:
+#     mapping: # optional, default to 'pathname'
+#     input_position: # optional, default to 'bottom'
+#     lang: # optional, default to the value of `site.lang`
+#     reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
