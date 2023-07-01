@@ -6,4 +6,4 @@ order: 4
 ---
 
 Chào mừng bạn đọc đã đến với blog của tôi 😁
-Tôi đang viết mục này...
+Tôi đang viết mục này... Mục này sẽ hoàn thành trong 6 giờ tới!
