@@ -8,7 +8,7 @@ order: 4
 Chào mừng bạn đọc đã đến với blog của tôi 😁
 Tôi đang viết mục này... Mục này sẽ hoàn thành trong 6 giờ tới!
 
-## Bình luận & thảo luận
+<!-- ## Bình luận & thảo luận -->
 
 Cảm ơn bạn đã dành thời gian để đọc, hãy trò chuyện và góp ý với mình ở dưới hoặc vào bằng <a href = "https://forms.gle/ZUrzUFKadCJBAEzaA"> link </a>.
 
