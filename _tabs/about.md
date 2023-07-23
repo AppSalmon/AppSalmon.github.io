@@ -6,7 +6,7 @@ order: 4
 img_path: /pic/about/
 ---
 
-![Picture](traintsv.jpg){: width="75" height="75" }
+![Picture](traintsv.jpg){: width="75" height="75" .w-50}
 _Linear Regression một ví dụ đơn giản về Machine learning._
 
 Chào mừng bạn đọc đã đến với blog của tôi 😁
