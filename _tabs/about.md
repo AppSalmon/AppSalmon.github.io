@@ -51,6 +51,17 @@ Bạn có thể tìm kiếm nội dung về từng lĩnh vực bằng **Categori
 
 - (2021 - Now) Sinh viên năm 3 [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
 
+
+Dưới ánh nắng mặt trời len lỏi qua những nhánh cây rậm rạp, cánh chim hót líu lo trên cao, tạo nên bức tranh thiên nhiên tuyệt đẹp của một buổi sáng tại vùng quê yên bình. Tiếng cỏ cây reo vang lên trong gió, âm nhạc tự nhiên mà không ai tạo ra. Những đóa hoa đua nhau nở rộ, từng cánh hoa lung linh trải dài ven đường làm cho không gian trở nên thêm phần màu sắc.
+
+Bên cạnh đó, cư dân làng dần tỉnh giấc, những người đi làm ruộng cùng nhau đẩy xe cày, vun vén đất đai để chuẩn bị cho một mùa màng bội thu. Tiếng cười đùa của trẻ thơ vang vọng khắp nơi, mang đến không khí vui tươi và hạnh phúc.
+
+Ngôi làng nhỏ xinh với những ngôi nhà gỗ truyền thống cùng mái ngói xanh mướt. Đường làng im ắng, chỉ có tiếng bước chân nhỏ nhẹ của người đi làm ngõ hẹp. Một chút khói bếp từ nhà bếp nhỏ lan tỏa, cho thấy đang chuẩn bị một bữa ăn đơn giản nhưng ấm cúng.
+
+Những con bò đen húc nhau trong cánh đồng xanh tươi, tiếng reo hò của người chăn cỏ vang vọng xa xa. Cảnh sắc hữu tình ấy gợi nhắc cho ai đó về sự giản dị, bình yên mà cuộc sống có thể mang lại.
+
+Để được trải nghiệm những khoảnh khắc tuyệt vời này, bạn chỉ cần đặt chân đến vùng quê này và chìm đắm vào thiên nhiên thanh bình, tận hưởng những giây phút đáng nhớ bên gia đình và người thân yêu.
+
 *Update 1:44 24/07/2023*
 
 **Bình luận & thảo luận**
