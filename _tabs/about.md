@@ -21,9 +21,15 @@ img_path: /pic/about/
 
 ### Bạn sẽ tìm thấy gì trên blog này?
 
+**Knowledge** (Kiến thức)
+
 Đối với mỗi chủ đề trong bài viết của mình sẽ là kiến thức mà mình thu thập từ nhiều nơi khác nhau chứ không phải hoàn toàn là mình tự viết từ những nguồn uy tín như như medium, các bài báo khoa học, google, linkedin,…(mình sẽ để tham khảo ở cuối mỗi bài viết) Từ những kiến thức đó mình sẽ hợp nhất và chế biến lại một cách đơn giản và dễ hiểu nhất theo một logic dễ hiểu nhất cho người đọc. 
 
-Bạn có thể tìm kiếm nội dung về từng lĩnh vực bằng **Categories** hoặc **tags** trong blog này
+**Product** (Ứng dụng, sản phẩm hoặc các bài báo nghiên cứu khoa học)
+
+Là những bài viết giới thiệu thông tin về những project, sản phẩm mình đã và đang phát triển, hướng dẫn cách xây dựng và sử dụng, kèm theo đó là những suy nghĩ của mình đối với sản phẩm như mục tiêu, tầm nhìn, sứ mệnh của chúng.
+
+Mỗi bài viết có thể Bạn có thể tìm kiếm nội dung về từng lĩnh vực bằng **Categories** hoặc **tags** trong blog này
 
 <a name="2"></a>
 
