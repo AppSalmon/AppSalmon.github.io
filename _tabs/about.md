@@ -12,6 +12,7 @@ img_path: /pic/about/
 
 **[2. Resume](#2)**
 
+
 <a name="1"></a>
 
 ### Xin chào, mình là Tuấn (Salmon) chào mừng bạn đến với trang cá nhân của mình
