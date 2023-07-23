@@ -7,7 +7,6 @@ img_path: /pic/about/
 ---
 
 
-
 ### Xin chào, mình là Tuấn (Salmon) chào mừng bạn đến với trang cá nhân của mình
 
 Đây là nơi mình tổng hợp những kiến thức mà mình góp nhặt được về công nghệ (chuyên về lĩnh vực trí tuệ nhân tạo). Hiện tại mình đang là sinh viên năm 3 ngành Khoa học dữ liệu của Đại học Công Nghiệp Thành phố Hồ Chí Minh (IUH) và mình đang tập trung nghiên cứu về lĩnh vực AI bao gồm Machine learning, Deep learning, Computer Vision, Natural language Processing
@@ -18,7 +17,7 @@ img_path: /pic/about/
 
 Bạn có thể tìm kiếm nội dung về từng lĩnh vực bằng **Categories** hoặc **tags trong** blog này
 
-![Picture](traintsv.jpg){: .w-75}
+![Picture](traintsv.jpg){: .w-50}
 
 ### Resume
 
