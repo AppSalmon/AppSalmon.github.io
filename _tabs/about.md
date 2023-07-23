@@ -6,8 +6,14 @@ order: 4
 img_path: /pic/about/
 ---
 
+
+
+### Xin chào, mình là Tuấn (Salmon) chào mừng bạn đến với trang cá nhân của mình
+
+Đây là nơi mình tổng hợp những kiến thức mà mình góp nhặt được về công nghệ (chuyên về lĩnh vực trí tuệ nhân tạo). Hiện tại mình đang là sinh viên năm 3 ngành Khoa học dữ liệu của Đại học Công Nghiệp Thành phố Hồ Chí Minh (IUH) và mình đang tập trung nghiên cứu về lĩnh vực AI bao gồm Machine learning, Deep learning, Computer Vision, Natural language Processing
+
+
 ![Picture](traintsv.jpg){: .w-50}
-_Linear Regression một ví dụ đơn giản về Machine learning._
 
 Chào mừng bạn đọc đã đến với blog của tôi 😁
 Tôi đang viết mục này... Mục này sẽ hoàn thành trong 6 giờ tới!
