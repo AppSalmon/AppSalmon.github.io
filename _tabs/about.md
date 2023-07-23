@@ -3,7 +3,11 @@
 title: About
 icon: fas fa-info-circle
 order: 4
+img_path: /pic/about/
 ---
+
+![Picture](traintsv.jpg){: .w-50}
+_Linear Regression một ví dụ đơn giản về Machine learning._
 
 Chào mừng bạn đọc đã đến với blog của tôi 😁
 Tôi đang viết mục này... Mục này sẽ hoàn thành trong 6 giờ tới!
