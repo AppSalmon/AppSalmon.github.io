@@ -17,19 +17,25 @@ img_path: /pic/about/
 
 ### Xin chào, mình là Tuấn (Salmon) chào mừng bạn đến với trang cá nhân của mình
 
-Đây là nơi mình tổng hợp những kiến thức mà mình góp nhặt được về công nghệ (chuyên về lĩnh vực trí tuệ nhân tạo). Hiện tại mình đang là sinh viên năm 3 ngành Khoa học dữ liệu của trường [Trường Đại học Công Nghiệp Thành phố Hồ Chí Minh (IUH)](https://iuh.edu.vn/) và mình đang tập trung nghiên cứu về lĩnh vực AI bao gồm Machine learning, Deep learning, Computer Vision, Natural language Processing và làm những dự án nghiên cứu, xây dựng sản phẩm phục vụ lợi ích cộng đồng.
+Đây là nơi mình tổng hợp những kiến thức mà mình góp nhặt được về công nghệ (chuyên về lĩnh vực trí tuệ nhân tạo). Hiện tại mình đang là sinh viên năm 3 ngành Khoa học dữ liệu của trường [Trường Đại học Công Nghiệp Thành phố Hồ Chí Minh (IUH)](https://iuh.edu.vn/) và mình đang tập trung nghiên cứu về lĩnh vực AI bao gồm [Machine learning](https://appsalmon.github.io/posts/what_is_ML/), Deep learning, Computer Vision, Natural language Processing và làm những dự án nghiên cứu, xây dựng sản phẩm phục vụ lợi ích cộng đồng.
 
 ### Bạn sẽ tìm thấy gì trên blog này?
 
 **Knowledge** (Kiến thức)
 
-Đối với mỗi chủ đề trong bài viết của mình sẽ là kiến thức mà mình thu thập từ nhiều nơi khác nhau chứ không phải hoàn toàn là mình tự viết từ những nguồn uy tín như như medium, các bài báo khoa học, google, linkedin,…(mình sẽ để tham khảo ở cuối mỗi bài viết) Từ những kiến thức đó mình sẽ hợp nhất và chế biến lại một cách đơn giản và dễ hiểu nhất theo một logic dễ hiểu nhất cho người đọc. 
+Mục tiêu các bài viết của mình là vừa giúp bản thân hệ thống lại kiến thức vừa cung cấp cho mọi người những kiến thức đa dạng từ nhiều nguồn uy tín như Medium, tài liệu, các bài báo khoa học, Google, LinkedIn và các nguồn khác trên Internet. Từ những tri thức phân tán đó (nhặt ở nhiều nơi) thì mình sẽ hợp nhất và chế biến ra một bài viết tổng hợp chứa đủ kiến thức cần thiết về chủ đề đó theo cách đơn giản và dễ hiểu, tuân thủ một logic rõ ràng để dễ dàng tiếp thu cho người đọc.
+
+Điều quan trọng là mình sẽ đảm bảo tất cả các thông tin trong bài viết đều đến từ các nguồn đáng tin cậy và được tham khảo rõ ràng. Việc hợp nhất và chế biến kiến thức này sẽ giúp tạo ra những bài viết sâu sắc và thú vị hơn, giúp người đọc có cái nhìn tổng quan và hiểu rõ hơn về chủ đề được trình bày. Cuối mỗi bài viết, mình cũng sẽ cung cấp danh sách các nguồn tham khảo để đảm bảo tính minh bạch và hỗ trợ việc tiếp tục nghiên cứu cho những ai quan tâm.
 
 **Product** (Ứng dụng, sản phẩm hoặc các bài báo nghiên cứu khoa học)
 
-Là những bài viết giới thiệu thông tin về những project, sản phẩm mình đã và đang phát triển, hướng dẫn cách xây dựng và sử dụng, kèm theo đó là những suy nghĩ của mình đối với sản phẩm như mục tiêu, tầm nhìn, sứ mệnh của chúng.
+Trong các bài viết của mình, mình sẽ giới thiệu về những dự án và sản phẩm mà mình đã và đang phát triển. Mình sẽ cung cấp hướng dẫn chi tiết về cách xây dựng và sử dụng những sản phẩm này, nhằm giúp người đọc hiểu rõ hơn về chúng.
 
-Mỗi bài viết có thể Bạn có thể tìm kiếm nội dung về từng lĩnh vực bằng **Categories** hoặc **tags** trong blog này
+Ngoài ra, tôi sẽ chia sẻ những suy nghĩ cá nhân về những sản phẩm này, bao gồm mục tiêu, tầm nhìn và sứ mệnh mà chúng hướng đến. Điều này nhằm mở rộng cái nhìn và đem lại cái nhìn toàn diện hơn về các dự án và sản phẩm của tôi đối với người đọc.
+
+Thông qua việc chia sẻ thông tin và suy nghĩ, mình mong muốn mang lại sự hiểu biết sâu sắc và truyền cảm hứng về những ứng dụng và sản phẩm AI mà tôi đam mê nghiên cứu và phát triển.
+
+Đối với mỗi chủ đề bạn đọc có thể tìm kiếm nội dung về từng lĩnh vực bằng tính năng **Categories** hoặc **tags** trong blog này
 
 <a name="2"></a>
 
