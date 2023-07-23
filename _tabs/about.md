@@ -12,8 +12,9 @@ img_path: /pic/about/
 
 Đây là nơi mình tổng hợp những kiến thức mà mình góp nhặt được về công nghệ (chuyên về lĩnh vực trí tuệ nhân tạo). Hiện tại mình đang là sinh viên năm 3 ngành Khoa học dữ liệu của Đại học Công Nghiệp Thành phố Hồ Chí Minh (IUH) và mình đang tập trung nghiên cứu về lĩnh vực AI bao gồm Machine learning, Deep learning, Computer Vision, Natural language Processing
 
+Heheheheheheheh 
 
-![Picture](traintsv.jpg){: .w-50}
+![Picture](traintsv.jpg){: .w-75}
 
 Chào mừng bạn đọc đã đến với blog của tôi 😁
 Tôi đang viết mục này... Mục này sẽ hoàn thành trong 6 giờ tới!
