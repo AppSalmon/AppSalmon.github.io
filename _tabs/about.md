@@ -51,6 +51,8 @@ Bạn có thể tìm kiếm nội dung về từng lĩnh vực bằng **Categori
 
 - (2021 - Now) Sinh viên năm 3 [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
 
+*Update 1:44 24/07/2023*
+
 **Bình luận & thảo luận**
 
 📍Cảm ơn bạn đã dành thời gian để đọc, hãy trò chuyện và góp ý với mình ở dưới hoặc vào bằng <a href = "https://forms.gle/ZUrzUFKadCJBAEzaA"> link </a>.
