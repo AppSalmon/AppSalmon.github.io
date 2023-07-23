@@ -12,7 +12,11 @@ img_path: /pic/about/
 
 Đây là nơi mình tổng hợp những kiến thức mà mình góp nhặt được về công nghệ (chuyên về lĩnh vực trí tuệ nhân tạo). Hiện tại mình đang là sinh viên năm 3 ngành Khoa học dữ liệu của Đại học Công Nghiệp Thành phố Hồ Chí Minh (IUH) và mình đang tập trung nghiên cứu về lĩnh vực AI bao gồm Machine learning, Deep learning, Computer Vision, Natural language Processing
 
-Heheheheheheheh 
+### Bạn sẽ tìm thấy gì trên blog này?
+
+Đối với mỗi chủ đề trong bài viết của mình sẽ là kiến thức mà mình thu thập từ nhiều nơi khác nhau chứ không phải hoàn toàn là mình tự viết từ những nguồn uy tín như như medium, các bài báo khoa học, google, linkedin,…(mình sẽ để tham khảo ở cuối mỗi bài viết) Từ những kiến thức đó mình sẽ hợp nhất và chế biến lại một cách đơn giản và dễ hiểu nhất theo một logic dễ hiểu nhất cho người đọc. 
+
+Bạn có thể tìm kiếm nội dung về từng lĩnh vực bằng **Categories** hoặc **tags trong** blog này
 
 ![Picture](traintsv.jpg){: .w-75}
 
