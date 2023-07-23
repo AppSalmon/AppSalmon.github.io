@@ -35,7 +35,8 @@ Ngoài ra, tôi sẽ chia sẻ những suy nghĩ cá nhân về những sản ph
 
 Thông qua việc chia sẻ thông tin và suy nghĩ, mình mong muốn mang lại sự hiểu biết sâu sắc và truyền cảm hứng về những ứng dụng và sản phẩm AI mà tôi đam mê nghiên cứu và phát triển.
 
-Đối với mỗi chủ đề bạn đọc có thể tìm kiếm nội dung về từng lĩnh vực bằng tính năng **Categories** hoặc **tags** trong blog này
+> Đối với mỗi chủ đề bạn đọc có thể tìm kiếm nội dung về từng lĩnh vực bằng tính năng **Categories** hoặc **tags** trong blog này
+{: .prompt-tip }
 
 <a name="2"></a>
 
@@ -44,12 +45,12 @@ Thông qua việc chia sẻ thông tin và suy nghĩ, mình mong muốn mang l�
 **Những thành tựu tôi đã đạt được trong 3 năm học ở IUH**
 
 *2023*
-- Giải nhất InnoGreenLife 2023 (Cuộc thi khởi nghiệp đổi mới sáng tạo)
+- Đạt giải nhất tại cuộc thi khởi nghiệp đổi mới sáng tạo InnoGreenLife 2023.
 
 *2022*
-- Giải ba ICPC quốc gia 2022 (Việt Nam) (Cuộc thi lập trình danh giá nhất dành cho sinh viên các trường đại học, cao đẳng trên toàn cầu)
+- Đạt giải ba ICPC Quốc gia 2022 (Việt Nam) (Cuộc thi lập trình danh giá nhất dành cho sinh viên các trường đại học, cao đẳng trên toàn cầu)
 - Là thành viên đội tuyển tin học IUH 2021, 2022 [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
-- Giải khuyến khích Eureka cấp trường 2022 (Giải thưởng sinh viên nghiên cứu khoa học)
+- Giải khuyến khích Eureka cấp trường 2022 vì những đóng góp trong lĩnh vực nghiên cứu khoa học.
 
 
 **Kinh nghiệm làm việc**
@@ -57,11 +58,11 @@ Thông qua việc chia sẻ thông tin và suy nghĩ, mình mong muốn mang l�
 - (20/03/2023 - Now) Data Engineer, Intern tại [Real-Time Analytics (RTA)](https://rta.vn/vi/trang-chu/)
     1. Crawl data làm giàu dữ liệu doanh nghiệp
     2. Crawl active website Việt Nam
-    3. AI Agent tools
+    3. Tạo các công cụ AI Agent để hỗ trợ công việc
 
 **Học vấn**
 
-- (2021 - Now) Sinh viên năm 3 [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
+- (2021 - Now) Sinh viên năm 3 tại [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
 
 
 
@@ -71,4 +72,4 @@ Thông qua việc chia sẻ thông tin và suy nghĩ, mình mong muốn mang l�
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYX6124QWR49d27Gu08whQH9MhDvXeW9o4KkA-kblLt4URwA/viewform?embedded=true" width="640" height="686" frameborder="0" marginheight="0" marginwidth="0">🔃Đang tải…</iframe>
 
-*Update 02:18 24/07/2023*
+*Update 03:13 24/07/2023*
