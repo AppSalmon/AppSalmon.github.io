@@ -23,17 +23,15 @@ img_path: /pic/about/
 
 **Knowledge** (Kiến thức)
 
-Mục tiêu các bài viết của mình là vừa giúp bản thân hệ thống lại kiến thức vừa cung cấp cho mọi người những kiến thức đa dạng từ nhiều nguồn uy tín như Medium, tài liệu, các bài báo khoa học, Google, LinkedIn và các nguồn khác trên Internet. Từ những tri thức phân tán đó (nhặt ở nhiều nơi) thì mình sẽ hợp nhất và chế biến ra một bài viết tổng hợp chứa đủ kiến thức cần thiết về chủ đề đó theo cách đơn giản và dễ hiểu, tuân thủ một logic rõ ràng để dễ dàng tiếp thu cho người đọc.
+Mục tiêu các bài viết của mình là vừa giúp bản thân hệ thống lại kiến thức vừa cung cấp kiến thức đa dạng cho mọi người từ nhiều nguồn uy tín như Medium, tài liệu, các bài báo khoa học, Google, LinkedIn và các nguồn khác trên Internet. Từ những tri thức phân tán đó (nhặt ở nhiều nơi) thì mình sẽ hợp nhất và chế biến ra một bài viết tổng hợp chứa đủ kiến thức cần thiết về chủ đề đó theo cách đơn giản, dễ hiểu và tuân thủ một logic rõ ràng để người đọc dễ tiêu hóa.
 
-Điều quan trọng là mình sẽ đảm bảo tất cả các thông tin trong bài viết đều đến từ các nguồn đáng tin cậy và được tham khảo rõ ràng. Việc hợp nhất và chế biến kiến thức này sẽ giúp tạo ra những bài viết sâu sắc và thú vị hơn, giúp người đọc có cái nhìn tổng quan và hiểu rõ hơn về chủ đề được trình bày. Cuối mỗi bài viết, mình cũng sẽ cung cấp danh sách các nguồn tham khảo để đảm bảo tính minh bạch và hỗ trợ việc tiếp tục nghiên cứu cho những ai quan tâm.
+Điều quan trọng là mình sẽ đảm bảo các thông tin trong bài viết đều đến từ các nguồn đáng tin cậy. Việc hợp nhất và chế biến kiến thức này sẽ giúp tạo ra những bài viết sâu sắc và thú vị hơn, giúp người đọc có cái nhìn tổng quan, hiểu rõ hơn về chủ đề được trình bày. Cuối mỗi bài viết, mình cũng sẽ cung cấp danh sách các nguồn tham khảo để đảm bảo tính minh bạch và hỗ trợ việc tiếp tục nghiên cứu cho những ai quan tâm.
 
 **Product** (Ứng dụng, sản phẩm hoặc các bài báo nghiên cứu khoa học)
 
-Trong các bài viết của mình, mình sẽ giới thiệu về những dự án và sản phẩm mà mình đã và đang phát triển. Mình sẽ cung cấp hướng dẫn chi tiết về cách xây dựng và sử dụng những sản phẩm này, nhằm giúp người đọc hiểu rõ hơn về chúng.
+Trong các bài viết của mình, mình sẽ giới thiệu về những dự án và sản phẩm mà mình đã và đang phát triển. Có hướng dẫn chi tiết về cách xây dựng và sử dụng những sản phẩm này. Ngoài ra, tôi cũng sẽ chia sẻ những suy nghĩ cá nhân về những sản phẩm này, bao gồm mục tiêu, tầm nhìn và sứ mệnh mà chúng hướng đến. Điều này nhằm mở rộng và đem lại cái nhìn toàn diện hơn về các dự án và sản phẩm của tôi đối với người đọc.
 
-Ngoài ra, tôi sẽ chia sẻ những suy nghĩ cá nhân về những sản phẩm này, bao gồm mục tiêu, tầm nhìn và sứ mệnh mà chúng hướng đến. Điều này nhằm mở rộng cái nhìn và đem lại cái nhìn toàn diện hơn về các dự án và sản phẩm của tôi đối với người đọc.
-
-Thông qua việc chia sẻ thông tin và suy nghĩ, mình mong muốn mang lại sự hiểu biết sâu sắc và truyền cảm hứng về những ứng dụng và sản phẩm AI mà tôi đam mê nghiên cứu và phát triển.
+Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu biết sâu sắc và truyền cảm hứng cho những ai đang muốn tìm hiểu nghiên cứu về AI.
 
 > Đối với mỗi chủ đề bạn đọc có thể tìm kiếm nội dung về từng lĩnh vực bằng tính năng **Categories** hoặc **tags** trong blog này
 {: .prompt-tip }
@@ -72,4 +70,4 @@ Thông qua việc chia sẻ thông tin và suy nghĩ, mình mong muốn mang l�
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYX6124QWR49d27Gu08whQH9MhDvXeW9o4KkA-kblLt4URwA/viewform?embedded=true" width="640" height="686" frameborder="0" marginheight="0" marginwidth="0">🔃Đang tải…</iframe>
 
-*Update 03:13 24/07/2023*
+*Update 03:21 24/07/2023*
