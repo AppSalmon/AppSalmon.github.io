@@ -20,8 +20,31 @@ Bạn có thể tìm kiếm nội dung về từng lĩnh vực bằng **Categori
 
 ![Picture](traintsv.jpg){: .w-75}
 
-Chào mừng bạn đọc đã đến với blog của tôi 😁
-Tôi đang viết mục này... Mục này sẽ hoàn thành trong 6 giờ tới!
+### Resume
+
+**Những thành tựu tôi đã đạt được trong 3 năm học ở IUH**
+
+*2022*
+
+- Giải ba ICPC quốc gia 2022 (Việt Nam) (Cuộc thi lập trình danh giá nhất dành cho sinh viên các trường đại học, cao đẳng trên toàn cầu)
+- Là thành viên đội tuyển tin học IUH 2021, 2022 (Trường ĐH Công nghiệp TP.HCM)
+- Giải khuyến khích Eureka cấp trường 2022 (Giải thưởng sinh viên nghiên cứu khoa học)
+
+*2023*
+
+- Giải nhất InnoGreenLife 2023 (Cuộc thi khởi nghiệp đổi mới sáng tạo)
+
+**Kinh nghiệm làm việc**
+
+- (20/03/2023 - Now) Data Engineer, Intern tại Real-Time Analytics (RTA) [https://rta.vn/](https://rta.vn/vi/trang-chu/)
+    1. Crawl data làm giàu dữ liệu doanh nghiệp
+    2. Crawl active website Việt Nam
+    3. AI Agent tools
+
+**Học vấn**
+
+- (2021 - Now) Sinh viên năm 3 ĐH Công nghiệp TP.HCM (IUH)
+
 
 
 **Bình luận & thảo luận**
