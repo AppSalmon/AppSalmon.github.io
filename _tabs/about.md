@@ -32,14 +32,12 @@ Bạn có thể tìm kiếm nội dung về từng lĩnh vực bằng **Categori
 **Những thành tựu tôi đã đạt được trong 3 năm học ở IUH**
 
 *2023*
-
-    - Giải nhất InnoGreenLife 2023 (Cuộc thi khởi nghiệp đổi mới sáng tạo)
+- Giải nhất InnoGreenLife 2023 (Cuộc thi khởi nghiệp đổi mới sáng tạo)
 
 *2022*
-
-    - Giải ba ICPC quốc gia 2022 (Việt Nam) (Cuộc thi lập trình danh giá nhất dành cho sinh viên các trường đại học, cao đẳng trên toàn cầu)
-    - Là thành viên đội tuyển tin học IUH 2021, 2022 [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
-    - Giải khuyến khích Eureka cấp trường 2022 (Giải thưởng sinh viên nghiên cứu khoa học)
+- Giải ba ICPC quốc gia 2022 (Việt Nam) (Cuộc thi lập trình danh giá nhất dành cho sinh viên các trường đại học, cao đẳng trên toàn cầu)
+- Là thành viên đội tuyển tin học IUH 2021, 2022 [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
+- Giải khuyến khích Eureka cấp trường 2022 (Giải thưởng sinh viên nghiên cứu khoa học)
 
 
 **Kinh nghiệm làm việc**
