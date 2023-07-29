@@ -38,7 +38,7 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
 
 <a name="2"></a>
 
-### Resume
+### My Resume
 
 **Những thành tựu tôi đã đạt được trong 3 năm học ở IUH**
 
