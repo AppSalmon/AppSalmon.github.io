@@ -58,10 +58,12 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
     2. Crawl active website Việt Nam
     3. Tạo các công cụ AI Agent để hỗ trợ công việc
 
-**Học vấn**
+
+**Học vấn & hoạt động**
 
 - (2021 - Now) Sinh viên năm 3 tại [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
-
+- Menter của 2 CLB Programming lab (chuyên về Lập trình thi đấu) & AI club IUH (chuyên về Trí tuệ nhân tạo)
+- Trợ giảng & giảng viên cho tân sinh viên
 
 
 ### Bình luận & thảo luận
@@ -70,4 +72,4 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYX6124QWR49d27Gu08whQH9MhDvXeW9o4KkA-kblLt4URwA/viewform?embedded=true" width="640" height="686" frameborder="0" marginheight="0" marginwidth="0">🔃Đang tải…</iframe>
 
-*Update 03:21 24/07/2023*
+*Update 00:00 30/07/2023*
