@@ -64,6 +64,7 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
 - (2021 - Now) Sinh viên năm 3 tại [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
 - Menter của 2 CLB Programming lab (chuyên về Lập trình thi đấu) & AI club IUH (chuyên về Trí tuệ nhân tạo)
 - Trợ giảng & giảng viên cho tân sinh viên
+- Đã tham gia Tiki hackathon 2022, Olympic tin học sinh viên Việt Nam (2021, 2022), UCPC 2022, ICPC Quốc gia (2021, 2022), ICPC Asia (2021, 2022), YSC 2022, Eureka 2022, VNOI Cup 2022, Code Tour 2022, Meta Hacker Cup 2022, InnoGreenLife 2023, Start Up Wheel 2023
 
 
 ### Bình luận & thảo luận
