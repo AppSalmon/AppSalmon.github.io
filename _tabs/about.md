@@ -64,7 +64,7 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
 - (2021 - Now) Sinh viên năm 3 tại [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
 - Menter của 2 CLB Programming lab (chuyên về Lập trình thi đấu) & AI club IUH (chuyên về Trí tuệ nhân tạo)
 - Trợ giảng & giảng viên cho tân sinh viên
-- Đã tham gia Tiki hackathon 2022, Olympic tin học sinh viên Việt Nam (2021, 2022), UCPC 2022, ICPC Quốc gia (2021, 2022), ICPC Asia (2021, 2022), YSC 2022, Eureka 2022, VNOI Cup 2022, Code Tour 2022, Meta Hacker Cup 2022, InnoGreenLife 2023, Start Up Wheel 2023
+- Đã tham gia [Olympic Tin học Sinh viên Việt Nam](https://www.olp.vn/) (2021, 2022), [ICPC Quốc gia](https://www.olp.vn/gi%E1%BB%9Bi-thi%E1%BB%87u/15-n%C4%83m-icpc-vietnam) (2021, 2022), [ICPC Asia](https://icpc.global/) (2021, 2022), [Tiki hackathon](https://hackathon.tiki.vn/) 2022, [UCPC](https://www.uit.edu.vn/ban-biet-gi-ve-ucpc) 2022, [YSC](https://ysc.iuh.edu.vn/vi/) 2022, [Eureka](https://eureka.khoahoctre.com.vn/) 2022, [VNOI Cup](https://cup.vnoi.info/rule/) 2022, [Code Tour](https://codetour.org/) 2022, [Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup) 2022, [InnoGreenLife](https://startup.iuh.edu.vn/) 2023, [Startup Wheel](https://startupwheel.vn/vi/) 2023
 
 
 ### Bình luận & thảo luận
