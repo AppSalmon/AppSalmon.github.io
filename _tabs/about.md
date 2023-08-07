@@ -73,4 +73,4 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYX6124QWR49d27Gu08whQH9MhDvXeW9o4KkA-kblLt4URwA/viewform?embedded=true" width="640" height="686" frameborder="0" marginheight="0" marginwidth="0">🔃Đang tải…</iframe>
 
-*Update 17:01 07/08/2023*
+*Update 17:02 07/08/2023*
