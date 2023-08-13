@@ -85,7 +85,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/AppSalmon/AppSalmon.github.io/blob/main/pic/about/pro.jpg
+avatar: https://raw.githubusercontent.com/AppSalmon/AppSalmon.github.io/main/pic/about/pro.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
