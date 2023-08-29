@@ -17,7 +17,7 @@ img_path: /pic/about/
 
 ### Xin chào, mình là Tuấn (Salmon) chào mừng bạn đến với trang cá nhân của mình
 
-Đây là nơi mình tổng hợp những kiến thức mà mình góp nhặt được về công nghệ (chuyên về lĩnh vực trí tuệ nhân tạo). Hiện tại mình đang là sinh viên năm 3 ngành Khoa học dữ liệu của trường [Trường Đại học Công Nghiệp Thành phố Hồ Chí Minh (IUH)](https://iuh.edu.vn/) và mình đang tập trung nghiên cứu về lĩnh vực AI bao gồm [Machine learning](https://appsalmon.github.io/posts/what_is_ML/), Deep learning, Computer Vision, Natural language Processing và làm những dự án nghiên cứu, xây dựng sản phẩm phục vụ lợi ích cộng đồng.
+Đây là nơi mình tổng hợp những kiến thức mà mình góp nhặt được về công nghệ (chuyên về lĩnh vực trí tuệ nhân tạo). Hiện tại mình đang là sinh viên năm 3 ngành Khoa học dữ liệu của [Trường Đại học Công Nghiệp Thành phố Hồ Chí Minh (IUH)](https://iuh.edu.vn/) và mình đang tập trung nghiên cứu về lĩnh vực AI bao gồm [Machine learning](https://appsalmon.github.io/posts/what_is_ML/), Deep learning, Computer Vision, Natural language Processing và làm những dự án nghiên cứu, xây dựng sản phẩm phục vụ lợi ích cộng đồng.
 
 ### Bạn sẽ tìm thấy gì trên blog này?
 
@@ -73,4 +73,4 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYX6124QWR49d27Gu08whQH9MhDvXeW9o4KkA-kblLt4URwA/viewform?embedded=true" width="640" height="686" frameborder="0" marginheight="0" marginwidth="0">🔃Đang tải…</iframe>
 
-*Update 14:00 07/08/2023*
+*Update 14:00 29/08/2023*
