@@ -4,6 +4,7 @@ title: Tổng hợp tài liệu phát triển bản thân (Comming Soon)
 date: 2023-09-03 09:00:00 +/-TTTT
 categories: [Life Story]
 tags: [overview, share]
+pin: true
 toc: true
 math: true
 comments: true
