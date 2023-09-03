@@ -2,7 +2,7 @@
 
 title: Tổng hợp tài liệu phát triển bản thân (Comming Soon)
 date: 2023-09-10 08:30:00 +/-TTTT
-categories: [Machine Learning, Deep Learning]
+categories: [Life Story]
 tags: [overview, share]
 toc: true
 math: true
