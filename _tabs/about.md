@@ -31,6 +31,9 @@ Mục tiêu các bài viết của mình là vừa giúp bản thân hệ thốn
 
 Trong các bài viết của mình, mình sẽ giới thiệu về những dự án và sản phẩm mà mình đã và đang phát triển. Có hướng dẫn chi tiết về cách xây dựng và sử dụng những sản phẩm này. Ngoài ra, tôi cũng sẽ chia sẻ những suy nghĩ cá nhân về những sản phẩm này, bao gồm mục tiêu, tầm nhìn và sứ mệnh mà chúng hướng đến. Điều này nhằm mở rộng và đem lại cái nhìn toàn diện hơn về các dự án và sản phẩm của tôi đối với người đọc.
 
+**Life Story** (Sổ Tâm Hồn)
+Những bài viết này sẽ đưa bạn vào cuộc hành trình của tôi, nơi tôi sẽ chia sẻ không chỉ về quan điểm và kinh nghiệm cá nhân, mà còn về những câu chuyện và học hỏi từ cuộc sống suy nghĩ và trải nghiệm của tôi qua từng dòng văn.
+
 Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu biết sâu sắc và truyền cảm hứng cho những ai đang muốn tìm hiểu nghiên cứu về AI.
 
 > Đối với mỗi chủ đề bạn đọc có thể tìm kiếm nội dung về từng lĩnh vực bằng tính năng **Categories** hoặc **tags** trong blog này
@@ -53,11 +56,11 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
 
 **Kinh nghiệm làm việc**
 
-- (20/03/2023 Khi là sv năm 2 - Now) Data Engineer, Intern tại [Real-Time Analytics (RTA)](https://rta.vn/vi/trang-chu/)
+- (20/03/2023 Khi là sv năm 2 - 9/2023) Data Engineer, Intern tại [Real-Time Analytics (RTA)](https://rta.vn/vi/trang-chu/)
     1. Crawl data làm giàu dữ liệu doanh nghiệp
     2. Crawl active website Việt Nam
     3. Tạo các công cụ AI Agent để hỗ trợ công việc
-
+    *Hiện tại tôi đã tạm biệt công việc và tập trung vào mục tiêu tương lai của mình*
 
 **Học vấn & hoạt động**
 
@@ -73,4 +76,4 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYX6124QWR49d27Gu08whQH9MhDvXeW9o4KkA-kblLt4URwA/viewform?embedded=true" width="640" height="686" frameborder="0" marginheight="0" marginwidth="0">🔃Đang tải…</iframe>
 
-*Update 14:00 29/08/2023*
+*Update 17:00 02/09/2023*
