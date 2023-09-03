@@ -1,6 +1,6 @@
 ---
 
-title: Tài liệu phát triển bản thân (Comming Soon)
+title: Tổng hợp tài liệu phát triển bản thân (Comming Soon)
 date: 2023-09-10 08:30:00 +/-TTTT
 categories: [Machine Learning, Deep Learning]
 tags: [overview, share]
