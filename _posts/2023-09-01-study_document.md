@@ -1,6 +1,6 @@
 ---
 
-title: Tổng hợp tài liệu phát triển bản thân (Comming Soon)
+title: Tổng hợp nguồn tài liệu học tập (Comming Soon)
 date: 2023-09-01 09:00:00 +/-TTTT
 categories: [Life Story]
 tags: [overview, share]
