@@ -19,10 +19,18 @@ Thật ra tài liệu thì mình có rất nhiều, nhưng để học làm sao 
 
 Và sau đây mình sẽ tổng hợp lại các nguồn tại liệu đáng học mà mình tìm hiểu được theo từng lĩnh vực...
 
+> Bài viết này vẫn đang còn update thêm vì tôi viết chưa xong!
+{: .prompt-warning }
+
+## General for AI
+
+- [Stanford youtube course](https://www.youtube.com/@stanfordonline/playlists)
+- [Website Roadmap.sh](https://roadmap.sh/)
+
+
 ## Math for AI
 - [Linear algebra basic](https://github.com/AppSalmon/AppSalmon.github.io/blob/main/my_data/study_document/linear_algebra_vht.pdf)
 - [Convex optimization](https://stanford.edu/~boyd/cvxbook/)
-- 
 
 ## Competitive programming
 
@@ -36,6 +44,8 @@ Knowledge
 - [Hand book](https://cses.fi/book/book.pdf)
 - [VNOI Wiki](https://vnoi.info/wiki/Home)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
+- [Salmon archive template CP](https://github.com/AppSalmon/Competition-programming-notebook)
+- [Salmon CP WIKI](https://salmon1.notion.site/Salmon-CP-WIKI-bc34b383ecc249489c6b1b17ffb79ab3)
 
 Practice
 
@@ -45,27 +55,35 @@ Practice
 
 Explore more:
 
-- [Hackerank](https://www.hackerrank.com/)
-- [Geeksforgeeks](https://www.geeksforgeeks.org/)
-- [Topcoder](https://www.topcoder.com/)
-- [SPOJ](https://www.spoj.com/)
-- [CodeChef](https://www.codechef.com/)
-- [Leetcode](https://leetcode.com/)
+- [Hackerank](https://www.hackerrank.com/), [Geeksforgeeks](https://www.geeksforgeeks.org/), [Topcoder](https://www.topcoder.com/), [SPOJ](https://www.spoj.com/), [CodeChef](https://www.codechef.com/), [Leetcode](https://leetcode.com/)
 
 ## Machine Learning
 
+- [Machine learning cơ bản](https://machinelearningcoban.com/)
+- [Machine learning coursera](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Stanford CS229: Machine Learning Full Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [Slide & Practice lab Machine learning AI Faster team](https://github.com/AppSalmon/Machine-learning-lecture-of-AI-Faster-team)
 
 ## Deep Learning
+
+- [Deep learning AI coursera](https://www.coursera.org/specializations/deep-learning?)
+- [Đắm mình vào học sâu](https://d2l.aivivn.com/)
+- [Blog and book Deep learning basic](https://nttuan8.com/sach-deep-learning-co-ban/)
 
 
 ## Computer Vision
 
 
+
+
 ## Natural Language Processing (NLP)
 
+- [Blog viet.jnlp](http://viet.jnlp.org/)
 
 ## English
 
+- [App/Web Mochimochi](https://learn.mochidemy.com/)
+- [Sách song ngữ: Tiếng anh cho tôi cơ hội nhìn ra thế giới](https://www.kesachsongngu.com/search/label/Ti%E1%BA%BFng%20Anh%20cho%20t%C3%B4i%20c%C6%A1%20h%E1%BB%99i%20nh%C3%ACn%20ra%20th%E1%BA%BF%20gi%E1%BB%9Bi)
 
 ## Thinking and soft skills
 
