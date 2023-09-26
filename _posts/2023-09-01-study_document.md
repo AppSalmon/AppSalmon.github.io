@@ -13,6 +13,62 @@ img_path: /pic/study_document/
 
 ---
 
+Thật ra tài liệu thì có rất nhiều, nhưng ở đây mình sẽ chọn lọc lại để học một cách tối ưu bởi vì có một sự thật là không phải cứ học nhiều tài liệu là tốt mà học đúng nguồn và hiệu quả mới là quan trọng vì khi có nhiều thứ để học quá có thể khiến ta nản chí và có thể dẫn đến ineffective
+
+Chúng ta nên chọn một nguồn học uy tín điều đó là rất quan trọng, sau đó mới dần dần tìm hiểu mở rộng kiến thức từ các nguồn khác, ví dụ như học nguồn A nhưng chưa giải quyết được thì ta có thể cân nhắc sang đọc thêm nguồn B...
+
+  https://drive.google.com/drive/folders/1EqUuNV9qnJSuYAQnAHrmG1u3c82rkFt_?usp=drive_link
+
+### Math for AI
+- 
+- 
+
+### Competitive programming
+
+For beginners:
+
+Video
+
+- [What is Competitive Programming? - William Lin](https://www.youtube.com/watch?v=ueNT-w7Oluw&ab_channel=WilliamLin)
+- [Starting Competitive Programming - Steps and Mistakes - William Lin](https://www.youtube.com/watch?v=bVKHRtafgPc&ab_channel=WilliamLin)
+
+Knowledge
+
+- [Hand book](https://cses.fi/book/book.pdf)
+- [VNOI Wiki](https://vnoi.info/wiki/Home)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
+
+Practice
+
+- [VNOI OJ](https://oj.vnoi.info/)
+- [Codeforces](https://codeforces.com/)
+- [CSES](https://cses.fi/)
+
+Explore more:
+
+- [Hackerank](https://www.hackerrank.com/)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/)
+- [Topcoder](https://www.topcoder.com/)
+- [SPOJ](https://www.spoj.com/)
+- [CodeChef](https://www.codechef.com/)
+- [Leetcode](https://leetcode.com/)
+
+Machine Learning
+
+
+Deep Learning
+
+
+Computer Vision
+
+
+Natural Language Processing (NLP)
+
+
+English
+
+
+Thinking and soft skills
 
 
 *Update: 17:00 03/09/2023*
