@@ -14,11 +14,11 @@ img_path: /pic/study_document/
 ---
 
 Tôi đọc được ở đâu đó rằng:
->  nếu bạn phải trả lời một câu hỏi hai lần, có lẽ bạn nên biến nó thành một bài đăng trên blog.
+>  Nếu bạn phải trả lời một câu hỏi hai lần, có lẽ bạn nên biến nó thành một bài đăng trên blog.
 
 Để tuân thủ nguyên tắc này và tiết kiệm thời gian trong tương lai, thì tôi sẽ trả lời một dạng câu hỏi mà tôi hay gặp nhiều nhất đó chính là "Anh Tuấn, anh học ... ở đâu, học như thế nào?".
 
-**Phương pháp học Deep work:** Đối với cách học thì mình mỗi người sẽ có một cách học hiệu quả riêng phù hợp với bản thân, đối với mình, mình học theo phương pháp Deep work, mọi người có thể lên google và tìm kiếm từ khóa này, và các phương pháp để giữ cho bản thân có thể Deep work một cách hiệu quả, mình recommend mọi người nếu muốn tìm hiểu thì nên đọc cuốn sách Deep work khá là nổi tiếng hoặc nếu không có thời gian thì có thể xem 2 video sau đây [Sở hữu SIÊU SỨC MẠNH LÀM VIỆC SÂU (DEEP WORK) như thế nào?](https://www.youtube.com/watch?v=wHFGVCLnanw&t=1s&ab_channel=Spiderum) [DEEP WORK để làm việc hiệu quả](https://www.youtube.com/watch?v=qMO9WEhjHXg&ab_channel=Spiderum).
+**Phương pháp học Deep work:** Đối với cách học thì mình mỗi người sẽ có một cách học hiệu quả riêng phù hợp với bản thân, đối với mình, mình học theo phương pháp Deep work, mọi người có thể lên google và tìm kiếm từ khóa này, và các phương pháp để giữ cho bản thân có thể Deep work một cách hiệu quả, mình recommend mọi người nếu muốn tìm hiểu thì nên đọc cuốn sách Deep work khá là nổi tiếng hoặc nếu không có thời gian thì có thể xem 3 video sau đây: Video 1 - [Sở hữu SIÊU SỨC MẠNH LÀM VIỆC SÂU (DEEP WORK) như thế nào?](https://www.youtube.com/watch?v=wHFGVCLnanw&t=1s&ab_channel=Spiderum), video 2 - [DEEP WORK để làm việc hiệu quả](https://www.youtube.com/watch?v=qMO9WEhjHXg&ab_channel=Spiderum), video 3 - [[Tóm tắt sách Deep Work] Tập trung cao độ - Năng lực cốt lõi để thành công trong cuộc sống](https://www.youtube.com/watch?v=lXpudZyNB-g&ab_channel=BetterVersion)
 
 
 **Tài liệu học tập:** Còn về tài liệu thì mình có rất nhiều, nhưng để học làm sao cho hiệu quả thì là một chuyện khác, ở đây mình sẽ chọn lọc lại một cách tối ưu để học bởi vì *có một sự thật là càng nhiều nguồn để học thì chỉ càng khiến ta nản chí vì lượng kiến thức khổng lồ, quan trọng là học đúng nguồn xịn, hiệu quả và tổng quan được kiến thức mới là chân lý*, sau khi đã đủ vững kiến thức rồi và cần nghiên cứu sâu thì chúng ta sẽ tự biết mở rộng ra, nó giúp mình tránh ineffective. ví dụ như học nguồn A nhưng chưa giải quyết được thì ta có thể cân nhắc sang đọc thêm nguồn B...
@@ -96,7 +96,7 @@ Explore more:
 ## Thinking and soft skills
 
 
-*Update: 17:00 03/09/2023*
+*Update: 10:00 27/09/2023*
 
 
 ## Bình luận & thảo luận
