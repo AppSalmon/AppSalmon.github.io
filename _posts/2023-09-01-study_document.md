@@ -1,6 +1,6 @@
 ---
 
-title: Tổng hợp nguồn tài liệu học tập (Comming Soon)
+title: Tổng hợp nguồn tài liệu học tập
 date: 2023-09-01 09:00:00 +/-TTTT
 categories: [Life Story]
 tags: [overview, share]
@@ -106,7 +106,7 @@ Podcast
 - [Ta Đi Tây](https://www.spreaker.com/show/ta-di-tay)
 - [Hieu TV](https://www.youtube.com/@hieu-tv)
 - [Intelligent Money Podcast](https://www.youtube.com/@intelligentmoney6868)
-- [Podcast For My Son | Nguyễn Minh Ngọc](https://www.youtube.com/@NguyenMinhNgocPodcast)
+- [Podcast For My Son - Nguyễn Minh Ngọc](https://www.youtube.com/@NguyenMinhNgocPodcast)
 
 Video
 
@@ -122,7 +122,7 @@ Video
 - [Huỳnh Duy Khương](https://www.youtube.com/@HuynhDuyKhuongofficial)
 - [Khánh Vy OFFICIAL](https://www.youtube.com/@KhanhVyOFFICIAL)
 
-*Update: 10:00 27/09/2023*
+*Update: 13:00 27/09/2023*
 
 
 ## Bình luận & thảo luận
