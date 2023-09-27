@@ -90,6 +90,12 @@ Explore more:
 - [Blog viet.jnlp](http://viet.jnlp.org/)
 - Đang update...
 
+
+## Dataset
+
+- [Nlp-datasets](https://github.com/niderhoff/nlp-datasets)
+
+
 ## English
 
 - [App/Web Mochimochi](https://learn.mochidemy.com/)
