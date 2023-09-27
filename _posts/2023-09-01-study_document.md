@@ -81,20 +81,46 @@ Explore more:
 
 ## Computer Vision
 
-
+- Đang update...
 
 
 ## Natural Language Processing (NLP)
 
+- [How to get started in NLP](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff)
 - [Blog viet.jnlp](http://viet.jnlp.org/)
+- Đang update...
 
 ## English
 
 - [App/Web Mochimochi](https://learn.mochidemy.com/)
 - [Sách song ngữ: Tiếng anh cho tôi cơ hội nhìn ra thế giới](https://www.kesachsongngu.com/search/label/Ti%E1%BA%BFng%20Anh%20cho%20t%C3%B4i%20c%C6%A1%20h%E1%BB%99i%20nh%C3%ACn%20ra%20th%E1%BA%BF%20gi%E1%BB%9Bi)
+- [Nghe tiếng anh thụ động](https://www.youtube.com/playlist?list=PLm2hYqxdiLafhrt4t6wSsq5XafoukWJ1T)
+- [nghe tiếng anh chủ động](https://www.youtube.com/playlist?list=PLm2hYqxdiLacxaEknay2D0s2ruintLFAV)
+- [Đọc - viết nhật ký tiếng anh](https://www.youtube.com/playlist?list=PLm2hYqxdiLaf4Jx-AjzMh_XMtP3Tc8TYj)
+- [21 ngày yêu tiếng anh](https://www.youtube.com/playlist?list=PLm2hYqxdiLadA_o8kVCZU_H-zhbECfn_h)
 
 ## Thinking and soft skills
 
+Podcast
+
+- [Ta Đi Tây](https://www.spreaker.com/show/ta-di-tay)
+- [Hieu TV](https://www.youtube.com/@hieu-tv)
+- [Intelligent Money Podcast](https://www.youtube.com/@intelligentmoney6868)
+- [Podcast For My Son | Nguyễn Minh Ngọc](https://www.youtube.com/@NguyenMinhNgocPodcast)
+
+Video
+
+- [TEDx Talks](https://www.youtube.com/@TEDx)
+- [Web5ngay](https://www.youtube.com/@Web5Ngay)
+- [Nguyễn Hữu Trí](https://www.youtube.com/@hacthaybachthay)
+- [Người Thành Công](https://www.youtube.com/@nguoithanhcong1991)
+- [Y Combinator](https://www.youtube.com/@ycombinator)
+- [Dũng Lại Lập Trình](https://www.youtube.com/@dunglailaptrinh)
+- [Cốt Cách Doanh Nhân](https://www.youtube.com/@cotcachdoanhnhan)
+- [Dưa Leo](https://www.youtube.com/@MrDualeone)
+- [Người Trẻ Làm Nên Nghiệp Lớn](https://www.youtube.com/@NguoiTreLamNenNghiepLon)
+- [Huỳnh Duy Khương](https://www.youtube.com/@HuynhDuyKhuongofficial)
+- [Khánh Vy OFFICIAL](https://www.youtube.com/@KhanhVyOFFICIAL)
 
 *Update: 10:00 27/09/2023*
 
