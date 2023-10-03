@@ -122,10 +122,11 @@ Cuối cùng, chúng ta sẽ sử dụng mô hình Machine Learning mà mình đ
 Bước này thì thường rất ít dự án AI có thể chạm tới, bởi vì đa số các dự án AI đều mang tính học thuật là chính, nhưng nếu project của bạn đủ tốt bạn có thể viết paper (bài báo) nộp các hội nghị khoa học hoặc các tạp chí khoa học nổi tiếng trên thế giới, thậm chí bạn có thể ứng dụng các giải pháp AI này vào sản phẩm của mình.
 
 Dưới đây là một số ví dụ về "Trình bày giải pháp & Tạo ra sản phẩm" trong lĩnh vực AI:
-- Một bạn sinh viên có thể nghiên cứu về AI để giải quyết một vấn đề trong cuộc sống, sau đó lên ý tưởng, tìm ra các giải pháp, tạo ra những giải pháp mới, thực hiện nó, sau đó viết một bài báo nghiên cứu khoa học để nộp các hội nghị, tạp chí uy tín, hoặc tự làm ra sản phẩm để bán.
-- Một công ty sử dụng AI để phát triển một hệ thống tự lái mới. Quá trình này bao gồm việc xác định vấn đề của lái xe tự lái, tạo ra các ý tưởng giải pháp, phát triển các mô hình AI và tạo ra một hệ thống tự lái hoạt động.
-- Một ngân hàng sử dụng AI để phát triển một hệ thống phát hiện gian lận mới. Quá trình này bao gồm việc xác định vấn đề của gian lận, tạo ra các ý tưởng giải pháp, phát triển các mô hình AI và tạo ra một hệ thống phát hiện gian lận có thể xác định các giao dịch gian lận.
-- Một công ty sử dụng AI để phát triển một hệ thống hỗ trợ khách hàng mới. Quá trình này bao gồm việc xác định vấn đề của dịch vụ khách hàng, tạo ra các ý tưởng giải pháp, phát triển các mô hình AI và tạo ra một hệ thống hỗ trợ khách hàng có thể trả lời các câu hỏi của khách hàng một cách chính xác và nhanh chóng.
+
+1. Một bạn sinh viên có thể nghiên cứu về AI để giải quyết một vấn đề trong cuộc sống, sau đó lên ý tưởng, tìm ra các giải pháp, tạo ra những giải pháp mới, thực hiện nó, sau đó viết một bài báo nghiên cứu khoa học để nộp các hội nghị, tạp chí uy tín, hoặc tự làm ra sản phẩm để bán.
+2. Một công ty sử dụng AI để phát triển một hệ thống tự lái mới. Quá trình này bao gồm việc xác định vấn đề của lái xe tự lái, tạo ra các ý tưởng giải pháp, phát triển các mô hình AI và tạo ra một hệ thống tự lái hoạt động.
+3. Một ngân hàng sử dụng AI để phát triển một hệ thống phát hiện gian lận mới. Quá trình này bao gồm việc xác định vấn đề của gian lận, tạo ra các ý tưởng giải pháp, phát triển các mô hình AI và tạo ra một hệ thống phát hiện gian lận có thể xác định các giao dịch gian lận.
+4. Một công ty sử dụng AI để phát triển một hệ thống hỗ trợ khách hàng mới. Quá trình này bao gồm việc xác định vấn đề của dịch vụ khách hàng, tạo ra các ý tưởng giải pháp, phát triển các mô hình AI và tạo ra một hệ thống hỗ trợ khách hàng có thể trả lời các câu hỏi của khách hàng một cách chính xác và nhanh chóng.
 
 - [x] Paper
 - [x] Product
@@ -135,9 +136,11 @@ Lưu ý là những bước trên đây mình đặt ra cần có sự cố gắ
 
 ## Tham khảo
 
-https://www.seldon.io/how-to-build-a-machine-learning-model
-https://ohstem.vn/7-buoc-xay-dung-mo-hinh-machine-learning/
-https://www.thegioimaychu.vn/blog/ai-hpc/checklist-8-buoc-chuan-bi-cho-mot-du-an-machine-learning-p552/
+[1] [https://www.seldon.io/how-to-build-a-machine-learning-model](https://www.seldon.io/how-to-build-a-machine-learning-model)
+
+[2] [https://ohstem.vn/7-buoc-xay-dung-mo-hinh-machine-learning/](https://ohstem.vn/7-buoc-xay-dung-mo-hinh-machine-learning/)
+
+[3] [https://www.thegioimaychu.vn/blog/ai-hpc/checklist-8-buoc-chuan-bi-cho-mot-du-an-machine-learning-p552/](https://www.thegioimaychu.vn/blog/ai-hpc/checklist-8-buoc-chuan-bi-cho-mot-du-an-machine-learning-p552/)
 
 
 ## Bình luận & thảo luận
