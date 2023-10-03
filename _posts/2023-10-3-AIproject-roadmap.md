@@ -22,9 +22,9 @@ Bước đầu tiên quan trọng trong quá trình thực hiện một dự án
 
 Ngắn gọn lại ở bước này chúng ta cần giải quyết rõ những vấn đề sau:
 
-- Xác định vấn đề cần giải quyết
-- Mục tiêu của dự án
-- Các kiến thức chuyên môn cần có
+- ✅Xác định vấn đề cần giải quyết
+- ✅Mục tiêu của dự án
+- ✅Các kiến thức chuyên môn cần có
 
 ## 2. Thu thập dữ liệu (Collect data)
 
@@ -51,8 +51,8 @@ Bước này trong quy trình kiểm tra dữ liệu có sự tương đồng v�
 
 Ngắn gọn lại ở bước này chúng ta cần giải quyết rõ những vấn đề sau:
 
-- EDA dữ liệu
-- Xác định các vấn đề cụ thể liên quan đến dữ liệu
+- EDA dữ liệu✅
+- Xác định các vấn đề cụ thể liên quan đến dữ liệu✅
 
 ## Bình luận & thảo luận
 
