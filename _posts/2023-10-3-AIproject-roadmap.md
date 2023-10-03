@@ -1,6 +1,6 @@
 ---
 title: Mỗi khi làm một project AI tôi sẽ vào đây đọc
-date: 2023-09-27 15:30:00 +/-TTTT
+date: 2023-10-3 15:30:00 +/-TTTT
 categories: [Machine learning]
 tags: [overview, basic, deep learning, machine learning]
 toc: true
