@@ -16,7 +16,7 @@ img_path: /pic/AI_project_map/
 
 Bày viết này là tổng hợp những kiến thức và kinh nghiệm của tôi nghiên cứu được về các bước trong việc triển khai một dự án liên quan đến lĩnh vực AI, và có tham khảo từ nhiều nguồn.
 
-![map_AI](map.png)
+![map_AI](map_AI.png)
 
 ## 1. Xác định vấn đề (Define The Problem)
 
