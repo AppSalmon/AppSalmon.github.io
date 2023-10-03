@@ -2,7 +2,7 @@
 title: Mỗi khi làm một project AI tôi sẽ vào đây đọc
 date: 2023-10-3 15:30:00 +/-TTTT
 categories: [Machine Learning]
-tags: [overview, basic, deep learning, machine learning]
+tags: [overview, basic, deep learning, machine learning, important post]
 toc: true
 math: true
 comments: true
@@ -12,7 +12,7 @@ img_path: /pic/AI_project_map/
 
 
 
-# 8 bước chuẩn bị cho một dự án liên quan đến lĩnh vực AI (Machine learning)
+# Quy trình 8 bước cho một dự án AI
 
 Bày viết này là tổng hợp những kiến thức và kinh nghiệm của tôi nghiên cứu được về các bước trong việc triển khai một dự án liên quan đến lĩnh vực AI, và có tham khảo từ nhiều nguồn.
 
@@ -117,9 +117,14 @@ Cuối cùng, chúng ta sẽ sử dụng mô hình Machine Learning mà mình đ
 
 - [x] Dự đoán được kết quả tốt với những vấn đề đặt ra.
 
-## 8. Trình bày giải pháp & Tạo ra sản phẩm (Presenting Solutions & Building Products)
+## 8. Trình bày & Sản phẩm (Presenting Solutions & Building Products)
 
-Bước này thì thường rất ít dự án AI có thể chạm tới, bởi vì đa số các dự án AI đều mang tính học thuật là chính, nhưng nếu project của bạn đủ tốt bạn có thể viết paper (bài báo) nộp các hội nghị khoa học hoặc các tạp chí khoa học nổi tiếng trên thế giới, thậm chí bạn có thể ứng dụng các giải pháp AI này vào sản phẩm của mình.
+Bước này thì thường rất ít dự án AI có thể chạm tới, bởi vì đa số các dự án AI đều mang tính học thuật là chính, nhưng nếu project của bạn đủ tốt bạn có thể viết paper (bài báo) nộp các hội nghị khoa học hoặc các tạp chí khoa học nổi tiếng trên thế giới, thậm chí bạn có thể ứng dụng các giải pháp AI này và tạo ra các sản phẩm của riêng mình phục vụ lợi ích con người.
+
+Kết quả cuối cùng:
+
+- [x] Paper
+- [x] Product
 
 Dưới đây là một số ví dụ về "Trình bày giải pháp & Tạo ra sản phẩm" trong lĩnh vực AI:
 
@@ -127,9 +132,6 @@ Dưới đây là một số ví dụ về "Trình bày giải pháp & Tạo ra 
 2. Một công ty sử dụng AI để phát triển một hệ thống tự lái mới. Quá trình này bao gồm việc xác định vấn đề của lái xe tự lái, tạo ra các ý tưởng giải pháp, phát triển các mô hình AI và tạo ra một hệ thống tự lái hoạt động.
 3. Một ngân hàng sử dụng AI để phát triển một hệ thống phát hiện gian lận mới. Quá trình này bao gồm việc xác định vấn đề của gian lận, tạo ra các ý tưởng giải pháp, phát triển các mô hình AI và tạo ra một hệ thống phát hiện gian lận có thể xác định các giao dịch gian lận.
 4. Một công ty sử dụng AI để phát triển một hệ thống hỗ trợ khách hàng mới. Quá trình này bao gồm việc xác định vấn đề của dịch vụ khách hàng, tạo ra các ý tưởng giải pháp, phát triển các mô hình AI và tạo ra một hệ thống hỗ trợ khách hàng có thể trả lời các câu hỏi của khách hàng một cách chính xác và nhanh chóng.
-
-- [x] Paper
-- [x] Product
 
 
 Lưu ý là những bước trên đây mình đặt ra cần có sự cố gắng và lặp đi lặp lại nhiều lần để cho ra được kết quả tuyệt vời.
