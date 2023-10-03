@@ -1,7 +1,7 @@
 ---
 title: Mỗi khi làm một project AI tôi sẽ vào đây đọc
 date: 2023-10-3 15:30:00 +/-TTTT
-categories: [Machine learning]
+categories: [Machine Learning]
 tags: [overview, basic, deep learning, machine learning]
 toc: true
 math: true
@@ -18,7 +18,7 @@ Bày viết này là tổng hợp những kiến thức và kinh nghiệm của 
 
 ![Map](map.png)
 
-## 1. Xác định vấn đề (Define the problem)
+## 1. Xác định vấn đề (Define The Problem)
 
 Bước đầu tiên quan trọng trong quá trình thực hiện một dự án Machine Learning là xác định vấn đề cụ thể mà chúng ta muốn giải quyết. Trong quá trình này, chúng ta cần xác định rõ mục tiêu của dự án, không nhất thiết phải giới hạn trong khía cạnh kinh doanh, nhưng việc hiểu rõ cách giải quyết vấn đề cuối cùng bằng Machine Learning là rất quan trọng. Bước này cũng là thời điểm để xem xét và so sánh các kịch bản và phương pháp giải quyết vấn đề, cũng như thảo luận về các giả định và kiến thức chuyên môn cần thiết. Trong quá trình này, chúng ta cũng cần xác định loại vấn đề Machine Learning cụ thể (có giám sát, không giám sát, v.v.) đều này là quan trọng để bạn chuẩn bị loại dữ liệu cần thiết, và đặt ra các chỉ tiêu hiệu suất mà chúng ta mong muốn đạt được.
 
@@ -28,7 +28,7 @@ Ngắn gọn lại ở bước này chúng ta cần giải quyết rõ những v
 - [x] Mục tiêu của dự án.
 - [x] Các kiến thức chuyên môn cần có.
 
-## 2. Thu thập dữ liệu (Collect data)
+## 2. Thu thập dữ liệu (Collect Data)
 
 Trong bước thu thập dữ liệu, chúng ta tập trung vào việc quản lý dữ liệu một cách chi tiết và tổ chức. Đầu tiên, chúng ta cần xác định số lượng dữ liệu cần thiết và loại dữ liệu mà chúng ta cần thu thập. Điều này đòi hỏi chúng ta phải biết rõ ràng về loại dữ liệu mà dự án yêu cầu, có thể là dữ liệu thời gian, quan sát, hình ảnh, và nhiều loại dữ liệu khác.
 
@@ -45,7 +45,7 @@ Ngắn gọn lại ở bước này chúng ta cần giải quyết rõ những v
 - [x] Đảm bảo tính an toàn thông tin dữ liệu, bảo vệ dữ liệu.
 - [x] Quản lý dữ liệu.
 
-## 3. Khám phá dữ liệu (Data exploration)
+## 3. Khám phá dữ liệu (Data Exploration)
 
 Bước này trong quy trình kiểm tra dữ liệu có sự tương đồng với phân tích dữ liệu khám phá (Exploratory Data Analysis - EDA) trong lĩnh vực thống kê và khoa học dữ liệu. Mục tiêu chính ở đây là khám phá và hiểu sâu hơn về dữ liệu trước khi bắt đầu xây dựng mô hình. Trong giai đoạn này, chúng ta cần kiểm tra lại các giả định ban đầu về dữ liệu và tìm hiểu về chúng.
 
@@ -70,7 +70,7 @@ Ngắn gọn lại ở bước này chúng ta cần giải quyết rõ những v
 - [x] Áp dụng các phương pháp kỹ thuật xử lý dữ liệu mô hình đạt kết quả tốt hơn.
 
 
-## 5. Xây dựng Mô hình hóa dữ liệu (Modeling)
+## 5. Xây dựng mô hình (Modeling)
 
 Ở trong bước này chúng ta sẽ lựa chọn các mô hình Machine learning, Deep learning phù hợp với vấn đề và dữ liệu của chúng ta, tùy thuộc vào từng tình huống mà chúng ta sẽ chọn những model khác nhau, và thử trên nhiều model khác nhau để được kết quả tốt nhất. Sau đó bạn sẽ huấn luyện các mô hình được chọn bằng cách điều chỉnh các tham số và học cách biểu diễn quan hệ giữa đầu vào và đầu ra. Quá trình này có thể đòi hỏi nhiều lần thử nghiệm và điều chỉnh.
 
@@ -111,7 +111,7 @@ Sau đó, bạn có thể tinh chỉnh mô hình này trên tập dữ liệu 10
 
 Kết quả là, mô hình của bạn sẽ học hỏi các đặc điểm cụ thể của chó và mèo. Điều này sẽ giúp mô hình phân loại các hình ảnh trong tập dữ liệu 100 hình ảnh chính xác hơn.
 
-## 7. Đưa ra dự đoán (Generate predictions)
+## 7. Đưa ra dự đoán (Generate Predictions)
 
 Cuối cùng, chúng ta sẽ sử dụng mô hình Machine Learning mà mình đã tạo để phân tích thông tin và đưa ra dự đoán một cách chính xác.
 
