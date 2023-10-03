@@ -51,9 +51,8 @@ Bước này trong quy trình kiểm tra dữ liệu có sự tương đồng v�
 
 Ngắn gọn lại ở bước này chúng ta cần giải quyết rõ những vấn đề sau:
 
-    ✅EDA dữ liệu
-    
-    ✅Xác định các vấn đề cụ thể liên quan đến dữ liệu
+- [x] EDA dữ liệu
+- [x] Xác định các vấn đề cụ thể liên quan đến dữ liệu
 
 ## Bình luận & thảo luận
 
