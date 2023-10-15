@@ -35,7 +35,9 @@ Và sau đây mình sẽ tổng hợp lại các nguồn tại liệu đáng h�
 ## General for AI
 
 - [Stanford youtube course](https://www.youtube.com/@stanfordonline/playlists)
-- [Website Roadmap.sh](https://roadmap.sh/)
+- [Roadmap.sh for AI](https://roadmap.sh/ai-data-scientist)
+- [Kaggle course](https://www.kaggle.com/learn)
+
 
 
 ## Math for AI
@@ -67,6 +69,9 @@ Explore more:
 
 - [Hackerank](https://www.hackerrank.com/), [Geeksforgeeks](https://www.geeksforgeeks.org/), [Topcoder](https://www.topcoder.com/), [SPOJ](https://www.spoj.com/), [CodeChef](https://www.codechef.com/), [Leetcode](https://leetcode.com/)
 
+
+## Data 
+
 ## Machine Learning
 
 - [Machine learning cơ bản](https://machinelearningcoban.com/)
@@ -84,6 +89,7 @@ Explore more:
 
 ## Computer Vision
 
+- [Coursera](https://www.coursera.org/search?query=computer%20vision&)
 - Đang update...
 
 
@@ -91,12 +97,15 @@ Explore more:
 
 - [How to get started in NLP](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff)
 - [Blog viet.jnlp](http://viet.jnlp.org/)
+- [nlp-course - hugging face](https://huggingface.co/learn/nlp-course/chapter1/1)
 - Đang update...
 
 
 ## Dataset
 
 - [Nlp-datasets](https://github.com/niderhoff/nlp-datasets)
+- [Kaggle dataset](https://www.kaggle.com/datasets)
+- Đang update...
 
 
 ## English
@@ -109,6 +118,17 @@ Explore more:
 - [21 ngày yêu tiếng anh](https://www.youtube.com/playlist?list=PLm2hYqxdiLadA_o8kVCZU_H-zhbECfn_h)
 
 ## Thinking and soft skills
+
+#### Nếu bạn thích đọc (Facebook page, blog):
+
+- Về sách thì nhiều lắm, hãy tự tìm hiểu nghiên cứu...
+- Tony Buổi Sáng: [Blog](https://tonybuoisang.net/), [Page 1](https://www.facebook.com/blogtonybuoisang), [Page 2](https://www.facebook.com/tonybs.vn)
+- [Medium.com](https://medium.com/) - Phải dùng trick mới đọc được
+- [Spiderum.com](https://spiderum.com/)
+- Đang update...
+
+
+#### Nếu thích nghe và nhìn:
 
 Podcast
 
