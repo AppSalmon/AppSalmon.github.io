@@ -100,6 +100,11 @@ Explore more:
 - [nlp-course - hugging face](https://huggingface.co/learn/nlp-course/chapter1/1)
 - Đang update...
 
+## Quantitative Finance
+
+- [WorldQuant](https://platform.worldquantbrain.com/learn)
+- [Investopedia](https://www.investopedia.com/terms/b/balancesheet.asp)
+- [101 Formulaic Alphas](https://arxiv.org/ftp/arxiv/papers/1601/1601.00991.pdf?mibextid=Zxz2cZ)
 
 ## Dataset
 
