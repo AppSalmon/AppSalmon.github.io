@@ -54,7 +54,7 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
 *2022*
 - Đạt giải ba ICPC Quốc gia 2022 (Việt Nam) (Cuộc thi lập trình danh giá nhất dành cho sinh viên các trường đại học, cao đẳng trên toàn cầu)
 - Là thành viên đội tuyển tin học IUH 2021, 2022 [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
-- Giải khuyến khích Eureka cấp trường 2022 vì những đóng góp trong lĩnh vực nghiên cứu khoa học.
+- Giải khuyến khích Eureka cấp trường 2022.
 - 1 bài báo accepted hội nghị YSC - Nghiên cứu khoa học trẻ IUH
 
 
@@ -72,7 +72,7 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
 - (2021 - Now) Sinh viên năm 3 tại [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
 - Mentor của 2 CLB Programming lab (chuyên về Lập trình thi đấu, [Facebook Page](https://www.facebook.com/iuhcoder), [Group](https://www.facebook.com/groups/olp.iuh)) & AI club IUH - Data Innovation Lab (chuyên về Trí tuệ nhân tạo, [Facebook Page](https://www.facebook.com/aiclub.iuh), [Group](https://www.facebook.com/groups/538890610129932))
 - Trợ giảng & giảng viên cho tân sinh viên
-- Đã tham gia [Olympic Tin học Sinh viên Việt Nam](https://www.olp.vn/) (2021, 2022), [ICPC Quốc gia](https://www.olp.vn/gi%E1%BB%9Bi-thi%E1%BB%87u/15-n%C4%83m-icpc-vietnam) (2021, 2022), [ICPC Asia](https://icpc.global/) (2021, 2022), [Tiki hackathon](https://hackathon.tiki.vn/) 2022, [UCPC](https://www.uit.edu.vn/ban-biet-gi-ve-ucpc) 2022, [YSC](https://ysc.iuh.edu.vn/vi/) 2022, 2023 [Eureka](https://eureka.khoahoctre.com.vn/) 2022, 2023 [VNOI Cup](https://cup.vnoi.info/rule/) 2022, [Code Tour](https://codetour.org/) 2022, [Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup) 2022, [InnoGreenLife](https://startup.iuh.edu.vn/) 2023, [Startup Wheel](https://startupwheel.vn/vi/) 2023, [Summer School in Data Science](https://raw.githubusercontent.com/AppSalmon/My-certificate/main/summer_school_data_science_2023.jpg) 2023, [UIT Data Science challenge](https://dsc.uit.edu.vn/) 2023.
+- Đã tham gia [Olympic Tin học Sinh viên Việt Nam](https://www.olp.vn/) (2021, 2022), [ICPC Quốc gia](https://www.olp.vn/gi%E1%BB%9Bi-thi%E1%BB%87u/15-n%C4%83m-icpc-vietnam) (2021, 2022), [ICPC Asia](https://icpc.global/) (2021, 2022), [Tiki hackathon](https://hackathon.tiki.vn/) 2022, [UCPC](https://www.uit.edu.vn/ban-biet-gi-ve-ucpc) 2022, [YSC](https://ysc.iuh.edu.vn/vi/) 2022, 2023 [Eureka](https://eureka.khoahoctre.com.vn/) 2022, 2023 [VNOI Cup](https://cup.vnoi.info/rule/) 2022, [Code Tour](https://codetour.org/) 2022, [Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup) 2022, [InnoGreenLife](https://startup.iuh.edu.vn/) 2023, [Startup Wheel](https://startupwheel.vn/vi/) 2023, [Summer School in Data Science](https://raw.githubusercontent.com/AppSalmon/My-certificate/main/summer_school_data_science_2023.jpg) 2023, [UIT Data Science challenge](https://dsc.uit.edu.vn/) 2023. [Vietnam Datathon](https://vietnamdatathon.com/) 2023.
 
 
 ### Bình luận & thảo luận
