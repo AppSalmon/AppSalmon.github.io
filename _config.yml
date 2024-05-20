@@ -34,8 +34,8 @@ url: "https://appsalmon.github.io/"
 github:
   username: AppSalmon # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -45,14 +45,13 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://www.facebook.com/TuanAmbiTion173/
-    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/AppSalmon # change to your github homepage
     - https://www.youtube.com/channel/UC2roLtQ-oQK2b_dnOeRWdPw
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
+google_site_verification: google_meta_tag_verification # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
