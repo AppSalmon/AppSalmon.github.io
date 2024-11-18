@@ -4,7 +4,7 @@ title: Tổng hợp nguồn tài liệu học tập
 date: 2023-09-01 09:00:00 +/-0084
 categories: [Life Story]
 tags: [overview, share, important post]
-pin: true
+# pin: true
 toc: true
 math: true
 comments: true
