@@ -1,6 +1,6 @@
 ---
-title: Tóm tắt về Jab, Jab, Jab, Right Hook
-date: 2024-11-19 15:30:00 +/-0084
+title: Tóm tắt sách Jab, Jab, Jab, Right Hook
+date: 2024-11-18 15:30:00 +/-0084
 categories: [Marketing]
 tags: [marketing, sales, book]
 toc: true
