@@ -6,7 +6,7 @@ tags: [marketing, sales, book]
 toc: true
 math: true
 comments: true
-published: true
+# published: true
 img_path: /pic/DL2/
 ---
 
