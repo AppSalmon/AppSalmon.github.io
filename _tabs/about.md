@@ -84,4 +84,4 @@ See my CV [Dao Xuan Hoang Tuan](https://drive.google.com/file/d/1LJlB3SiOBEu3K0n
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYX6124QWR49d27Gu08whQH9MhDvXeW9o4KkA-kblLt4URwA/viewform?embedded=true" width="640" height="686" frameborder="0" marginheight="0" marginwidth="0">🔃Đang tải…</iframe>
 
-*Update 01:25 10/02/2023*
+*Update 01:25 19/11/2024*

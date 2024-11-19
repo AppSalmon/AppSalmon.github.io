@@ -12,7 +12,6 @@ img_path: /pic/jabjabjab/
 image:
     path: chart_jab.png
     alt: Jab, Jab, Jab, Right Hook
-    
 ---
 
 ## Gary Vaynerchuk và Jab, Jab, Jab, Right Hook
@@ -84,7 +83,47 @@ Không phải ngẫu nhiên mà top 20 tài khoản thành công nhất trên Vi
 
 ## Bonus - tôi update cho năm 2024
 
-Ở năm 2024 chúng ta có 
+**Tiếp thị trên nền tảng video ngắn: Bí quyết chinh phục trái tim người dùng trong thời đại mới**
+
+Năm 2024, chúng ta chứng kiến một bước ngoặt quan trọng trong hành vi tiêu dùng nội dung số. Từ những nền tảng truyền thống như Facebook, nơi sự tương tác dựa vào mạng lưới bạn bè và người theo dõi, đến sự trỗi dậy của TikTok – một nền tảng đột phá với thuật toán đề xuất dựa trên sở thích cá nhân. TikTok đã không chỉ thay đổi cách chúng ta tiêu thụ nội dung mà còn mở ra một kỷ nguyên mới cho tiếp thị: nơi "sở thích dẫn lối, nội dung làm vua."
+
+Hãy thử tưởng tượng: một video ngắn chỉ kéo dài 15 giây nhưng lại có thể lan tỏa đến hàng triệu người trên khắp thế giới, ngay cả khi họ chưa từng biết đến bạn. Đây chính là sức mạnh của nền tảng video ngắn, nơi cơ hội tiếp cận không còn bị giới hạn bởi danh sách người theo dõi, mà được thúc đẩy bởi nội dung bạn tạo ra và sự quan tâm thực sự từ người xem.
+
+**Vậy làm thế nào để tiếp thị hiệu quả trên nền tảng này?**
+**Hiểu rõ đối tượng khán giả**
+Người dùng TikTok, Reels hay YouTube Shorts không tìm kiếm quảng cáo – họ tìm kiếm sự giải trí, cảm xúc và giá trị. Hãy bắt đầu bằng cách đặt câu hỏi:
+
+Khán giả của bạn thích gì?
+Họ đang đau đầu với vấn đề nào?
+Làm thế nào bạn có thể làm họ mỉm cười, ngạc nhiên hay truyền cảm hứng chỉ trong vài giây ngắn ngủi?
+
+**Tạo nội dung ngắn gọn, cuốn hút ngay từ giây đầu tiên**
+
+Trong thế giới mà "lướt" trở thành bản năng, bạn chỉ có 3 giây để giữ chân khán giả. Hãy tập trung vào:
+
+Hình ảnh bắt mắt ngay từ đầu.
+Một thông điệp rõ ràng, có sức gợi.
+Chút bất ngờ để khán giả muốn xem đến hết và chia sẻ.
+
+**Kể câu chuyện qua hình ảnh và âm nhạc**
+Video ngắn không chỉ là về thông tin – đó là trải nghiệm. Hãy sử dụng âm nhạc, hiệu ứng và câu chuyện để đánh thức cảm xúc của khán giả. Một bản nhạc phù hợp có thể biến một video bình thường thành một xu hướng.
+
+**Sử dụng sức mạnh của "xu hướng"**
+
+Thuật toán của TikTok và Reels yêu thích những nội dung ăn theo xu hướng. Hãy theo dõi và tham gia vào những thử thách, hashtag hay bài hát đang nổi. Tuy nhiên, đừng chỉ sao chép – hãy sáng tạo thêm để làm nổi bật thương hiệu của bạn.
+
+**Thể hiện sự chân thực và gần gũi**
+
+Người dùng ngày nay dễ dàng nhận ra đâu là nội dung "gượng ép." Hãy trung thực, tự nhiên và gần gũi. Một câu chuyện đời thường nhưng chân thành thường hiệu quả hơn bất kỳ đoạn quảng cáo bóng bẩy nào.
+
+Kết hợp khéo léo giữa giải trí và kêu gọi hành động (CTA)
+Đừng chỉ dừng lại ở việc tạo ấn tượng – hãy cho người xem một lý do để hành động. Đó có thể là:
+
+**Cơ hội là của bạn**, nếu bạn dám đổi mới
+TikTok, Reels, hay YouTube Shorts không chỉ là nền tảng giải trí – chúng là cánh cửa để doanh nghiệp bạn bước vào tâm trí và trái tim của hàng triệu người dùng. Đừng để mình lạc lối trong những phương thức cũ kỹ. Hãy sáng tạo, táo bạo và chớp lấy cơ hội mà nền tảng video ngắn mang lại.
+
+**Bởi vì trong kỷ nguyên này, ai làm chủ được video ngắn – người đó làm chủ tương lai của tiếp thị!**
+
 
 ## Tham khảo
 
