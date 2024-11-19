@@ -77,7 +77,7 @@ Không phải ngẫu nhiên mà top 20 tài khoản thành công nhất trên Vi
 
 ![chart](chart3.png)
 
-## Bonus - tôi Update cho năm 2024
+## Bonus - tôi update cho năm 2024
 
 Ở năm 2024 chúng ta có 
 

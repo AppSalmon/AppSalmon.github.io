@@ -21,12 +21,12 @@ timezone: Asia/Ho_Chi_Minh
 title: Salmon # the main title
 
 
-tagline: Đi sâu vào thế giới của máy tính thông minh # it will display as the sub-title
+tagline: Co-Founder IX Health | I Built First Business At 20 # it will display as the sub-title
 # tagline: Khi ảo tưởng trở thành hiện thực # it will display as the sub-title
 
 
 description: >- # used by seo meta and the atom feed
-  Một blog, chia sẻ kiến thức trí tuệ nhân tạo của Salmon
+  Một blog, chia sẻ kiến thức Startup, Tech, Marketing của Salmon
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://appsalmon.github.io/"
