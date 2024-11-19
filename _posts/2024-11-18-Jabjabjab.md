@@ -7,7 +7,7 @@ toc: true
 math: true
 comments: true
 published: true
-img_path: /pic/DL2/
+img_path: /pic/jabjabjab/
 ---
 
 ## Gary Vaynerchuk và Jab, Jab, Jab, Right Hook
@@ -69,10 +69,17 @@ Tuy nhiên, không phải cú "jab" nào cũng giống nhau. Để tạo nên n�
 
 Đây là yếu tố quan trọng nhất. Việc đăng chéo nội dung từ Instagram sang Twitter, Facebook, hay Threads không có nghĩa là bạn đã cung cấp nội dung xuất sắc trên mọi nền tảng. Mỗi nền tảng có phong cách riêng, và nội dung của bạn phải được "may đo" để phù hợp với điều đó.
 
+![chart](chart_jab.png)
+
 Gary từng nói: **“Content is king, but context is god” (Nội dung là vua, nhưng ngữ cảnh mới là thượng đế).**
 
 Không phải ngẫu nhiên mà top 20 tài khoản thành công nhất trên Vine đều là các diễn viên hài, Twitter chỉ giới hạn 140 ký tự, hay Snapchat lại tự động xóa nội dung sau khi bạn xem. Mỗi nền tảng đều có lý do và phong cách riêng, và nhiệm vụ của bạn là hiểu rõ điều đó để tạo ra nội dung phù hợp nhất. Đừng bao giờ coi thường bối cảnh của nền tảng mà bạn đang hoạt động.
 
+![chart](chart3.png)
+
+## Bonus - tôi Update cho năm 2024
+
+Ở năm 2024 chúng ta có 
 
 ## Tham khảo
 
