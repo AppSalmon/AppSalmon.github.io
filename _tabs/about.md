@@ -16,7 +16,7 @@ img_path: /pic/about/
 
 <a name="1"></a>
 
-### Weo come, mình là Tuấn (Salmon) chào mừng bạn đến với trang cá nhân của tôi
+### Weo come, mình là Tuấn (Salmon) chào mừng bạn đến với blog này
 
 **Tech - Startup - Marketing**
 
