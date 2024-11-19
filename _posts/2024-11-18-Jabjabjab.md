@@ -9,154 +9,86 @@ comments: true
 published: true
 img_path: /pic/DL2/
 ---
-<!-- 
-# Neural Networks Basics
 
+## Gary Vaynerchuk và Jab, Jab, Jab, Right Hook
 
-Bài viết này chúng ta sẽ tập trung vào những kiến ​​thức cơ bản về lập trình mạng nơ-ron (Neural network), đặc biệt là một số kỹ thuật quan trọng, chẳng hạn như cách xử lý các ví dụ huấn luyện m trong tính toán và cách triển khai quá trình lan truyền tiến (forward propagation) và lan truyền ngược (Backward propagation). 
+Tôi rất ngưỡng mộ Gary Vaynerchuk. Ông ấy là top 10 những Marketer vĩ đại nhất mọi thời đại. Mặc dù tôi không phải kiểu người tự nhận mình "hustle" chăm chỉ như anh ấy, nhưng những câu chuyện và chia sẻ của Gary luôn truyền cảm hứng để tôi vượt qua giới hạn và nỗ lực nhiều hơn so với trước đây, tôi dám làm những thứ mà trước đây tôi không làm trong Marketing.
 
-## Logistic Regression
+**"Jab, Jab, Jab, Right Hook"** không chỉ là tựa đề của cuốn sách, mà còn là công thức thành công trên mạng xã hội mà Gary chia sẻ. Khi ra mắt vào năm 2013, cuốn sách đã làm chấn động giới marketing và trở thành tác phẩm gối đầu giường của dân Marketing, lọt vào danh sách bestseller của New York Times.
 
-Logistic Regression (Hồi quy logistic) là một kỹ thuật khác được học máy mượn từ lĩnh vực thống kê.
+Là một doanh nhân Hoa Kỳ, bốn lần được bình chọn là tác giả có sách bán chạy nhất New York Times, diễn giả, và nhân vật nổi tiếng Internet được cộng đồng quốc tế công nhận. Ban đầu được biết đến với tư cách là nhà phê bình rượu vang hàng đầu, người phát triển doanh nghiệp rượu vang của gia đình từ 3 triệu đô la đô la Mỹ lên tới 60 triệu đô la Mỹ doanh thu, ông Vaynerchuk nổi tiếng nhất với vai trò nhà tiên phong truyền thông xã hội và tiếp thị kỹ thuật số chèo lái hai công ty VaynerMedia và VaynerX có trụ sở tại New York.
 
-Đây là phương pháp phù hợp cho các bài toán phân loại nhị phân (các bài toán có hai giá trị lớp). Và Logistic Regression là cách đơn giản để cho chúng ta thấy cách hoạt động neural network.
+Ông Vaynerchuk là nhà đầu tư cấp vốn hoặc cố vấn cho Uber, Birchbox, Snapchat, Facebook, Twitter và Tumblr và nhiều công ty khác. Ông là diễn giả chính thường xuyên có mặt tại các hội nghị doanh nghiệp và công nghệ toàn cầu.
 
-**Logistic Regression Cost Function**
+Nếu bạn cảm thấy mình vẫn chưa tận dụng được tối đa tiềm năng của mạng xã hội (tin tôi đi, bạn chưa đâu), thì đây chính là dành cho bạn.
 
-Trong hồi quy logistic, chúng ta muốn huấn luyện các tham số `w` và `b`, chúng ta cần xác định hàm chi phí.
+Dưới đây là 3 bài học tuyệt vời từ cuốn sách:
 
-$$\hat{y} = \sigma(w^{T}x^{(i)}+b)$$
+- Nếu bạn không xuất hiện trên mạng xã hội, bạn chắc chắn sẽ thua cuộc.
+- Hãy liên tục tạo ra những nội dung xuất sắc, được “may đo” phù hợp với từng nền tảng, trước khi yêu cầu bất kỳ điều gì từ khán giả.
+- Instagram là vũ khí mạnh mẽ nhất để thu hút sự tương tác lớn từ cộng đồng. (dòng này trích từ sách)
 
-$$\text{Trong đó: } \sigma(z^{(i)}) = \frac{1}{1 + e^{-z^{(i)}}}$$
+## Bài học 1: Nếu bạn không sử dụng mạng xã hội, bạn sẽ thua cuộc.
 
-$$\text{Dữ liệu:} \{(x^{(1)}, y^{(1)}), ..., (x^{(m)}, y^{(m)})$$
+Trong ấn bản mới nhất của báo cáo Tình trạng kết nối Internet di động hàng năm của Hiệp hội GSM (GSMA), hiệp hội đã ghi nhận gần 4 tỷ trong số 4,6 tỷ người sử dụng dịch vụ Internet di động vào cuối năm 2022 đã sử dụng điện thoại thông minh và số còn lại là điện thoại phổ thông. Lượng người dùng smartphone tại Việt Nam dự kiến ở mức 63,8 triệu người, tăng 1,6% so với năm 2022 và chiếm 96,1% lượng người dùng internet trên cả nước. 
 
-$$\text{Mục tiêu: } \hat{y}^{(i)} ≈ y^{(i)}$$
+Xét ở khu vực Đông Nam Á, lượng người dùng smartphone ước tính tại Việt Nam tính tới hết năm 2023 chỉ kém mỗi Indonesia. Không có gì ngạc nhiên khi iPhone của mọi người dường như đều dính chặt vào tay họ.
 
-Nếu đây là lần đầu tiên bạn tiếp cận với Logistic Regression thì bạn có thể xem bài giảng về LR của tôi tại đây [Logistic Regression lecture](https://github.com/AppSalmon/Machine-learning-lecture-of-AI-Faster-team/tree/main/Lecture07_Logistic_Regression) hoặc đọc blog này [machinelearningcoban.com/2017/01/27/logisticregression](https://machinelearningcoban.com/2017/01/27/logisticregression/), tôi tin là sau khi đọc xong bạn sẽ hiểu vẻ đẹp của Logistic Regression.
+Ngày nay, mọi người dành rất nhiều thời gian trên mạng xã hội – và nơi nào thu hút sự chú ý, nơi đó chính là "mảnh đất vàng" cho các nhà tiếp thị.
 
-Loss Function là hàm mất mát đo sự chệnh lệch giữa y dự đoán $$\hat{y}^{i}$$ và y thực tế $$y^{i}$$, nói đơn giản hơn thì nó tính lỗi (chi phí) cho một ví dụ (sample) huấn luyện.
+Chuyện các phương tiện truyền thông mới thay thế cái cũ là điều bình thường, nhưng cuộc cách mạng này ngày càng diễn ra nhanh hơn nhờ khả năng tiếp cận hàng loạt ngày càng dễ dàng. Ví dụ, đài phát thanh phải mất 38 năm để đạt 50 triệu người dùng, truyền hình chỉ mất 13 năm, Facebook mất 3 năm, X (twitter) 3 năm, Instagram thì 18 tháng, còn Threads thì sao? Chỉ 5 ngày.
 
-$$L(\hat{y}^{(i)}, y^{(i)}) = \frac{1}{2}(\hat{y}^{(i)} - y^{(i)})^{2}$$
+Nếu bạn vẫn chưa bắt đầu tham gia mạng xã hội, hãy bắt đầu ngay bây giờ. Không có mặt trên mạng xã hội đồng nghĩa với việc bạn đang tự đẩy mình vào thế **thua cuộc**.
 
-$$L(ŷ(i), y(i)) = -(y(i) \log(ŷ(i)) + (1 - y(i)) \log(1 - ŷ(i)))$$
+## Bài học 2: Hãy liên tục tạo ra nội dung tuyệt vời, được "may đo" cho từng nền tảng, trước khi yêu cầu bất kỳ điều gì từ khách hàng.
 
-$$\begin{cases}
-L(ŷ, y) = \log(ŷ) & \text{if } y = 1 \\
-L(ŷ, y) = \log(1 - ŷ) & \text{if } y = 0
-\end{cases}$$
+Chiến thắng trong "trò chơi" mạng xã hội chính là nhờ vào việc sản xuất nội dung xuất sắc.
 
-Cost function là tính toán trung bình tất cả lỗi, chi phí của cả tập huấn lệnh, và mục tiêu của chúng ta là tìm `w` và `b` để Cost function là nhỏ nhất cho tập huấn lệnh.
+Nếu như trước đây, thành công có thể chỉ đến từ một chiến dịch quảng cáo gồm 6 đoạn TVC đỉnh cao, phát sóng trong suốt 6 tháng, thì ngày nay, điều đó đòi hỏi bạn phải cung cấp nội dung mới mẻ, hấp dẫn mỗi ngày, xuyên suốt cả năm.
 
-$$\begin{equation}
-J(w, b) = \frac{1}{m} \sum_{i=1}^m L(\hat{y}^{(i)}, y^{(i)}) = -\frac{1}{m} \sum_{i=1}^m [(y^{(i)} \log(\hat{y}^{(i)}) + (1 - y^{(i)})\log(1 - \hat{y}^{(i)})]
-\end{equation}$$
+Vậy làm thế nào để đạt được điều đó?
+Rất đơn giản: Hãy để chính người hâm mộ của bạn làm điều đó.
 
-Ngắn gọn hơn:
+Mạng xã hội sinh ra là để kết nối, chia sẻ. Nhiệm vụ của bạn là tạo nên một “bộ khung” cho câu chuyện tuyệt vời xoay quanh thương hiệu, rồi để người dùng tham gia, tương tác, và tự mình làm phong phú thêm câu chuyện ấy.
 
-$$J(w, b) = -\sum_{i=1}^m \log(\hat{y}^{(i)})^{y^{(i)}} (1 - \hat{y}^{(i)})^{1 - y^{(i)}}$$
+Điều quan trọng nhất là mang lại thật nhiều giá trị cho cộng đồng của bạn. Hãy giúp đỡ họ nhiều đến mức khi bạn ngỏ lời muốn bán một sản phẩm hay dịch vụ, họ sẽ cảm thấy “áy náy” nếu không ủng hộ bạn, bởi vì bạn đã cho đi quá nhiều trước đó.
 
-Hàm mất mát (Loss function) đo lường mức độ hiệu quả của mô hình trên một ví dụ đào tạo, trong khi hàm chi phí (Cost function) đo lường mức độ hiệu quả của mô hình (cụ thể là các tham số `w` và `b`) trên toàn bộ tập huấn luyện.
+**Đó chính là ý nghĩa của “Jab, Jab, Jab, Right Hook” – cho, cho, cho, và hỏi.**
 
+Tuy nhiên, không phải cú "jab" nào cũng giống nhau. Để tạo nên nội dung chất lượng, bạn cần chú ý đến 3 yếu tố sau:
 
-## Gradient Descent
+1. Đừng gây phiền phức hay xâm phạm không gian cá nhân của người dùng.
 
-Khi chúng ta học bất kỳ khóa học nào về Machine learning hoặc Deep learning thì Gradient Descent sẽ là thứ xuất hiện phổ biến nhất, bạn nên master kỹ thuật này, Nó được sử dụng khi train model, khi mà các cost function quá phức tạp để tìm `w` và `b` tối ưu, thì Gradient Descent xuất hiện, nó có thể kết hợp với mọi thuật toán một cách dễ hiểu và dễ thực hiện.
+Đừng cố nhồi nhét thương hiệu của bạn vào mặt họ một cách lộ liễu. Hãy tinh tế. Nội dung được tích hợp mượt mà, hấp dẫn về mặt hình ảnh, và không tạo cảm giác ép buộc sẽ luôn được đánh giá cao.
 
-Tôi đã có những slide và bài tập về Gradient Descent và bạn có thể xem [ở đây](https://github.com/AppSalmon/Machine-learning-lecture-of-AI-Faster-team/tree/main/Lecture03_Gradient_Descent), Ngoài ra bạn cũng có thể tham khảo ở đây: [GD1](https://machinelearningcoban.com/2017/01/12/gradientdescent/), [GD2](https://machinelearningcoban.com/2017/01/16/gradientdescent2/)
+2. Đừng đòi hỏi quá nhiều từ người dùng.
 
-Nói ngắn gọn về ý tưởng của Gradient Descent là:
-- Khởi tạo các tham số `w`, `b` ngẫu nhiên (thường thì xấp xỉ 0).
-- Tính Cost and Gradient cho tập training với tham số `w`, `b`.
-- Update các tham số `w` và `b` với `learning rate` đặt trước: 
+Đừng bắt khán giả phải làm những điều phức tạp hay vượt qua hàng tá thử thách để tương tác với bạn. Hãy làm cho nội dung trở nên thú vị, cung cấp giá trị, hoặc giải trí nhẹ nhàng.
 
-$$w_{new} = w_{old} – lr * \text{gradient_of_at}(w_{old})$$ 
+3. Phải phù hợp với từng nền tảng.
 
-làm tương tự với `b`.
+Đây là yếu tố quan trọng nhất. Việc đăng chéo nội dung từ Instagram sang Twitter, Facebook, hay Threads không có nghĩa là bạn đã cung cấp nội dung xuất sắc trên mọi nền tảng. Mỗi nền tảng có phong cách riêng, và nội dung của bạn phải được "may đo" để phù hợp với điều đó.
 
-- Lặp lại các bước này cho đến khi bạn đạt được giá trị tối thiểu của Cost function, từ đó bạn sẽ có được `w` và `b` tối ưu.
+Gary từng nói: “Content is king, but context is god” (Nội dung là vua, nhưng ngữ cảnh mới là thượng đế).
 
-![gradient-descent.jpeg](gradient-descent.jpeg)
-
-
-## Derivatives (Đạo hàm)
-
-Trong deep learning, các model là Neural network quá trình predict từ input ra output là forward propagation (lan truyền xuôi) và update các trọng số để tối ưu mô hình là backpropagation (lan truyền ngược), Đạo hàm rất quan trọng trong quá trình lan truyền ngược lúc train model, sử dụng khái niệm đồ thị tính toán và quy tắc đạo hàm chuỗi (Chain rule) để giúp việc tính toán hàng nghìn tham số trong mạng thần kinh hiệu (neural network) quả hơn sẽ được giới thiệu phía dưới.
-
-## Computation Graph (Đồ thị tính toán)
-
-Đồ thị tính toán là một cách hay để hiểu ý tưởng tính toán của các neural network, thực chất neural network chỉ là tổ hợp của những biểu thức toán học. Ví dụ, hãy xem xét biểu thức e=(a+b)∗(b+1). Có ba phép tính: hai phép cộng và một phép nhân. Để giúp chúng ta giải quyết vấn đề này, hãy giới thiệu hai biến trung gian c và d để đầu ra của mọi hàm đều có một biến. Chúng ta hiện có: 
-
-$$c = a + b$$
-
-$$d = b + 1$$
-
-$$e = c ∗ d$$
-
-Từ đây chúng ta có thể tạo ra một Computation Graph với các dữ liệu đầu vào là nút lá:
-
-![computation_graph1.png](computation_graph1.png)
-
-Sau đó chúng ta có thể đạo hàm với đồ thị tính toán này:
-
-Nếu muốn hiểu đạo hàm trong neural network, thì phải hiểu đạo hàm trong một đồ thị tính toán, điều quan trọng là phải hiểu đạo hàm trên các cạnh. Nếu a ảnh hưởng trực tiếp đến c thì chúng ta muốn biết nó ảnh hưởng đến c như thế nào. Nếu a thay đổi một chút thì c thay đổi như thế nào? Chúng ta gọi đây là đạo hàm riêng của c theo a.
-
-![computation_graph2.png](computation_graph2.png)
-
-Ví dụ nếu ∂c/∂a = 1 tức là nếu a tăng 1 thì c tăng 1, a tăng 2 thì c tăng 2, còn nếu ∂e/∂c = d thì nếu c tăng 2 thì e tăng d*2.
- 
-Điều này rất tốt để chúng ta hiểu cách hoạt động của quy tắc Chain rule lên neural network, bạn có thể tìm hiểu thêm về quy tắc chain rule.
-
-## Chain rule
-
-Chain rule nói rằng: *Đạo hàm hàm tổng hợp = đạo hàm hàm bên ngoài * đạo hàm hàm bên trong*
-
-$$\begin{equation}
-f(x) = A(B(C(x)))
-\end{equation}$$
-
-$$\begin{equation}
-f'(x) = \frac{d}{dx} [A(B(C(x)))] = (A'(B(C(x))) \cdot B'(C(x))) + (A(B(C(x))) \cdot C'(x))
-\end{equation}$$
-
-Điều này giúp chúng ta đạo hàm được những hàm lồng hàm trong neural network.
-
-Hãy xem ví dụ về một neural network đơn giản, nó sẽ khá giống với đồ thị tính toán, chỉ là các phép toán phức tạp với hơn với `w`, `g` và các activation function như relu, sigmod, softmax, tanh và số lượng và độ lớn cũng nhiều hơn thôi hehe.
-
-![neuralnetwork.png](neuralnetwork.png)
-
-Và các node trong đó thì có cấu tạo như thế này:
-
-![1neron.jpg](1neron.jpg)
-
-
-## Python and Vectorization
-
-Một nguyên tắc khi code Deep learning là cần phải vector hóa (vectorization) dữ liệu, bởi vì với những thuật toán trình bày ở trên nếu chúng ta chỉ chạy for đơn thuần thì độ phức tạp thuật toán rất lớn (đâu đó 4 vòng for lồng nhau) vậy nên ma trận và vector sinh ra để giải quyết điều này.
-
-Nếu xếp chồng tất cả `m` sample của `x` thì chúng ta có một ma trận đầu vào `X` với mỗi cột biểu thị một sample (điểm dữ liệu). Vì vậy, bằng cách vector hóa dựng sẵn của `numpy`, chúng ta có thể đơn giản hóa phép tính gradient descent ở trên bằng một vài dòng mã có thể tăng hiệu quả tính toán một cách chắc chắn.
-
-```python
-Z = np.dot(w.T, X) + b
-A = sigmoid(Z)
-dz = A - Y
-```
-
-Updata parameters:
-
-```python
-w = w - alpha * dw
-b = b - alpha * db
-```
+Không phải ngẫu nhiên mà top 20 tài khoản thành công nhất trên Vine đều là các diễn viên hài, Twitter chỉ giới hạn 140 ký tự, hay Snapchat lại tự động xóa nội dung sau khi bạn xem. Mỗi nền tảng đều có lý do và phong cách riêng, và nhiệm vụ của bạn là hiểu rõ điều đó để tạo ra nội dung phù hợp nhất. Đừng bao giờ coi thường bối cảnh của nền tảng mà bạn đang hoạt động.
 
 
 ## Tham khảo
 
-Bài viết dựa trên khóa học Deep Learning Specialization Coursera nổi tiếng của Andrew Ng - [Link](https://www.coursera.org/specializations/deep-learning).
+[1] [https://vtv.vn/cong-nghe/hon-mot-nua-dan-so-the-gioi-so-huu-dien-thoai-thong-minh-20231014090940392.htm](https://vtv.vn/cong-nghe/hon-mot-nua-dan-so-the-gioi-so-huu-dien-thoai-thong-minh-20231014090940392.htm)
+
+[2] [https://vietnambiz.vn/threads-noi-nguoi-tre-khoe-thu-nhap-khung-202482073617892.htm](https://vietnambiz.vn/threads-noi-nguoi-tre-khoe-thu-nhap-khung-202482073617892.htm)
+
+[3] [https://fourminutebooks.com/jab-jab-jab-right-hook-summary/](https://fourminutebooks.com/jab-jab-jab-right-hook-summary/)
+
+[4] [https://vietnambiz.vn/luong-nguoi-dung-smartphone-tai-viet-nam-uoc-dung-thu-hai-dong-nam-a-vao-nam-2026-thuoc-top-nhieu-nhat-the-gioi-202359104330221.htm](https://vietnambiz.vn/luong-nguoi-dung-smartphone-tai-viet-nam-uoc-dung-thu-hai-dong-nam-a-vao-nam-2026-thuoc-top-nhieu-nhat-the-gioi-202359104330221.htm)
+
+
 
 
 ## Bình luận & thảo luận
 
 Cảm ơn bạn đã dành thời gian để đọc, hãy trò chuyện và góp ý với mình ở dưới hoặc vào bằng <a href = "https://forms.gle/ZUrzUFKadCJBAEzaA"> link </a>.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYX6124QWR49d27Gu08whQH9MhDvXeW9o4KkA-kblLt4URwA/viewform?embedded=true" width="640" height="686" frameborder="0" marginheight="0" marginwidth="0">Đang tải…</iframe> -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYX6124QWR49d27Gu08whQH9MhDvXeW9o4KkA-kblLt4URwA/viewform?embedded=true" width="640" height="686" frameborder="0" marginheight="0" marginwidth="0">Đang tải…</iframe>
