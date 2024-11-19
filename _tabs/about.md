@@ -16,11 +16,9 @@ img_path: /pic/about/
 
 <a name="1"></a>
 
-### Xin chào, mình là Tuấn (Salmon) chào mừng bạn đến với trang cá nhân của mình
+### Weo come, mình là Tuấn (Salmon) chào mừng bạn đến với trang cá nhân của tôi
 
-Giới thiệu về tôi
-
-Tech - Startup - Marketing
+**Tech - Startup - Marketing**
 
 Tôi đã giành chiến thắng trong các cuộc thi khởi nghiệp dành cho sinh viên, dẫn dắt hai câu lạc bộ lập trình hàng đầu tại trường đại học, và đạt giải ba tại cuộc thi lập trình quốc gia ICPC. Vào năm thứ ba đại học, tôi bắt đầu xây dựng một startup từ con số không với vốn bằng 0.
 
@@ -28,7 +26,7 @@ Hiện tại, sứ mệnh của tôi là phát triển các sản phẩm công n
 
 See my CV [Dao Xuan Hoang Tuan](https://drive.google.com/file/d/1LJlB3SiOBEu3K0nA-gAL367TG5WS_5rU/view?usp=sharing)
 
-![Avt](handsome.jpg)
+![Avt](handsome.jpg){: .w-50}
 
 <a name="2"></a>
 
