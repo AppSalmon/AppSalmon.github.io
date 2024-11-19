@@ -10,8 +10,9 @@ published: true
 img_path: /pic/jabjabjab/
 
 image:
-    path: chart_jab.jpg
+    path: chart_jab.png
     alt: Jab, Jab, Jab, Right Hook
+    
 ---
 
 ## Gary Vaynerchuk và Jab, Jab, Jab, Right Hook
