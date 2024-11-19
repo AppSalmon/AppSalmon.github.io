@@ -10,39 +10,41 @@ img_path: /pic/about/
 
 **[1. Giới thiệu](#1)**
 
-**[2. Resume](#2)**
+**[2. Contact](#2)**
+
 
 
 <a name="1"></a>
 
 ### Xin chào, mình là Tuấn (Salmon) chào mừng bạn đến với trang cá nhân của mình
 
-Đây là nơi mình tổng hợp những kiến thức mà mình góp nhặt được về công nghệ (chuyên về lĩnh vực trí tuệ nhân tạo). Hiện tại mình đang là sinh viên năm 3 ngành Khoa học dữ liệu của [Trường Đại học Công Nghiệp Thành phố Hồ Chí Minh (IUH)](https://iuh.edu.vn/) và mình đang tập trung nghiên cứu về lĩnh vực AI bao gồm [Machine learning](https://appsalmon.github.io/categories/machine-learning/), [Deep learning](https://appsalmon.github.io/categories/deep-learning/), Computer Vision, Natural language Processing và làm những dự án nghiên cứu, xây dựng sản phẩm phục vụ lợi ích cộng đồng.
+Giới thiệu về tôi
 
-### Bạn sẽ tìm thấy gì trên blog này?
+Tech - Startup - Marketing
 
-**Knowledge** (Kiến thức)
+Tôi đã giành chiến thắng trong các cuộc thi khởi nghiệp dành cho sinh viên, dẫn dắt hai câu lạc bộ lập trình hàng đầu tại trường đại học, và đạt giải ba tại cuộc thi lập trình quốc gia ICPC. Vào năm thứ ba đại học, tôi bắt đầu xây dựng một startup từ con số không với vốn bằng 0.
 
-Mục tiêu các bài viết của mình là vừa giúp bản thân hệ thống lại kiến thức vừa cung cấp kiến thức đa dạng cho mọi người từ nhiều nguồn uy tín như Medium, tài liệu, các bài báo khoa học, Google, LinkedIn và các nguồn khác trên Internet. Từ những tri thức phân tán đó (nhặt ở nhiều nơi) thì mình sẽ hợp nhất và chế biến ra một bài viết tổng hợp chứa đủ kiến thức cần thiết về chủ đề đó theo cách đơn giản, dễ hiểu và tuân thủ một logic rõ ràng để người đọc dễ tiêu hóa.
+Hiện tại, sứ mệnh của tôi là phát triển các sản phẩm công nghệ đổi mới, mang lại giá trị thực sự cho cuộc sống của mọi người.
 
-Điều quan trọng là mình sẽ đảm bảo các thông tin trong bài viết đều đến từ các nguồn đáng tin cậy. Việc hợp nhất và chế biến kiến thức này sẽ giúp tạo ra những bài viết sâu sắc và thú vị hơn, giúp người đọc có cái nhìn tổng quan, hiểu rõ hơn về chủ đề được trình bày. Cuối mỗi bài viết, mình cũng sẽ cung cấp danh sách các nguồn tham khảo để đảm bảo tính minh bạch và hỗ trợ việc tiếp tục nghiên cứu cho những ai quan tâm.
+See my CV [Dao Xuan Hoang Tuan](https://drive.google.com/file/d/1LJlB3SiOBEu3K0nA-gAL367TG5WS_5rU/view?usp=sharing)
 
-**Product** (Ứng dụng, sản phẩm hoặc các bài báo nghiên cứu khoa học)
-
-Trong các bài viết của mình, mình sẽ giới thiệu về những dự án và sản phẩm mà mình đã và đang phát triển. Có hướng dẫn chi tiết về cách xây dựng và sử dụng những sản phẩm này. Ngoài ra, tôi cũng sẽ chia sẻ những suy nghĩ cá nhân về những sản phẩm này, bao gồm mục tiêu, tầm nhìn và sứ mệnh mà chúng hướng đến. Điều này nhằm mở rộng và đem lại cái nhìn toàn diện hơn về các dự án và sản phẩm của tôi đối với người đọc.
-
-**Life Story** (Sổ Tâm Hồn)
-
-Những bài viết này sẽ đưa bạn vào cuộc hành trình của tôi, nơi tôi sẽ chia sẻ không chỉ về quan điểm và kinh nghiệm cá nhân, mà còn về những câu chuyện và học hỏi từ cuộc sống suy nghĩ và trải nghiệm của tôi qua từng dòng văn.
-
-Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu biết sâu sắc và truyền cảm hứng cho những ai đang muốn tìm hiểu nghiên cứu về AI.
-
-> Đối với mỗi chủ đề bạn đọc có thể tìm kiếm nội dung về từng lĩnh vực bằng tính năng **Categories** hoặc **tags** trong blog này
-{: .prompt-tip }
+![Avt](handsome.jpg)
 
 <a name="2"></a>
 
-### My Resume
+### Contact
+Email: hoangtuan.salmon@gmail.com
+Facebook: [TuanAmbiTion173](https://www.facebook.com/TuanAmbiTion173/)
+Linkedin: [salmon1](https://www.linkedin.com/in/salmon1/)
+Threads: [i.am.hoangtuan](https://www.threads.net/@i.am.hoangtuan)
+
+
+> Đối với mỗi chủ đề bạn đọc có thể tìm kiếm nội dung về từng lĩnh vực bằng tính năng **Categories** hoặc **tags** trong blog này
+{: .prompt-tip }
+<!-- 
+<a name="2"></a>
+
+### Resume trẻ trâu của tôi những năm đầu ĐH
 
 **Những thành tựu tôi đã đạt được trong 3 năm học ở IUH**
 
@@ -72,7 +74,7 @@ Thông qua việc chia sẻ trên, mình mong muốn mang lại sự hiểu bi�
 - (2021 - Now) Sinh viên năm 3 tại [Trường ĐH Công Nghiệp TP.HCM (IUH)](https://iuh.edu.vn/)
 - Mentor của 2 CLB Programming lab (chuyên về Lập trình thi đấu, [Facebook Page](https://www.facebook.com/iuhcoder), [Group](https://www.facebook.com/groups/olp.iuh)) & AI club IUH - Data Innovation Lab (chuyên về Trí tuệ nhân tạo, [Facebook Page](https://www.facebook.com/aiclub.iuh), [Group](https://www.facebook.com/groups/538890610129932))
 - Trợ giảng & giảng viên cho tân sinh viên
-- Đã tham gia [Olympic Tin học Sinh viên Việt Nam](https://www.olp.vn/) (2021, 2022), [ICPC Quốc gia](https://www.olp.vn/gi%E1%BB%9Bi-thi%E1%BB%87u/15-n%C4%83m-icpc-vietnam) (2021, 2022), [ICPC Asia](https://icpc.global/) (2021, 2022), [Tiki hackathon](https://hackathon.tiki.vn/) 2022, [UCPC](https://www.uit.edu.vn/ban-biet-gi-ve-ucpc) 2022, [YSC](https://ysc.iuh.edu.vn/vi/) 2022, 2023 [Eureka](https://eureka.khoahoctre.com.vn/) 2022, 2023 [VNOI Cup](https://cup.vnoi.info/rule/) 2022, [Code Tour](https://codetour.org/) 2022, [Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup) 2022, [InnoGreenLife](https://startup.iuh.edu.vn/) 2023, [Startup Wheel](https://startupwheel.vn/vi/) 2023, [Summer School in Data Science](https://raw.githubusercontent.com/AppSalmon/My-certificate/main/summer_school_data_science_2023.jpg) 2023, [UIT Data Science challenge](https://dsc.uit.edu.vn/) 2023. [Vietnam Datathon](https://vietnamdatathon.com/) 2023.
+- Đã tham gia [Olympic Tin học Sinh viên Việt Nam](https://www.olp.vn/) (2021, 2022), [ICPC Quốc gia](https://www.olp.vn/gi%E1%BB%9Bi-thi%E1%BB%87u/15-n%C4%83m-icpc-vietnam) (2021, 2022), [ICPC Asia](https://icpc.global/) (2021, 2022), [Tiki hackathon](https://hackathon.tiki.vn/) 2022, [UCPC](https://www.uit.edu.vn/ban-biet-gi-ve-ucpc) 2022, [YSC](https://ysc.iuh.edu.vn/vi/) 2022, 2023 [Eureka](https://eureka.khoahoctre.com.vn/) 2022, 2023 [VNOI Cup](https://cup.vnoi.info/rule/) 2022, [Code Tour](https://codetour.org/) 2022, [Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup) 2022, [InnoGreenLife](https://startup.iuh.edu.vn/) 2023, [Startup Wheel](https://startupwheel.vn/vi/) 2023, [Summer School in Data Science](https://raw.githubusercontent.com/AppSalmon/My-certificate/main/summer_school_data_science_2023.jpg) 2023, [UIT Data Science challenge](https://dsc.uit.edu.vn/) 2023. [Vietnam Datathon](https://vietnamdatathon.com/) 2023. -->
 
 
 ### Bình luận & thảo luận
