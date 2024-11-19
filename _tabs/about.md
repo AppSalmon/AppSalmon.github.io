@@ -31,10 +31,13 @@ See my CV [Dao Xuan Hoang Tuan](https://drive.google.com/file/d/1LJlB3SiOBEu3K0n
 <a name="2"></a>
 
 ### Contact
-Email: hoangtuan.salmon@gmail.com
-Facebook: [TuanAmbiTion173](https://www.facebook.com/TuanAmbiTion173/)
-Linkedin: [salmon1](https://www.linkedin.com/in/salmon1/)
-Threads: [i.am.hoangtuan](https://www.threads.net/@i.am.hoangtuan)
+**Email:** hoangtuan.salmon@gmail.com
+
+**Facebook:** [TuanAmbiTion173](https://www.facebook.com/TuanAmbiTion173/)
+
+**Linkedin:** [salmon1](https://www.linkedin.com/in/salmon1/)
+
+**Threads:** [i.am.hoangtuan](https://www.threads.net/@i.am.hoangtuan)
 
 
 > Đối với mỗi chủ đề bạn đọc có thể tìm kiếm nội dung về từng lĩnh vực bằng tính năng **Categories** hoặc **tags** trong blog này
