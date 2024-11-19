@@ -57,19 +57,19 @@ Mạng xã hội sinh ra là để kết nối, chia sẻ. Nhiệm vụ của b�
 
 Tuy nhiên, không phải cú "jab" nào cũng giống nhau. Để tạo nên nội dung chất lượng, bạn cần chú ý đến 3 yếu tố sau:
 
-1. Đừng gây phiền phức hay xâm phạm không gian cá nhân của người dùng.
+**Đừng gây phiền phức hay xâm phạm không gian cá nhân của người dùng.**
 
 Đừng cố nhồi nhét thương hiệu của bạn vào mặt họ một cách lộ liễu. Hãy tinh tế. Nội dung được tích hợp mượt mà, hấp dẫn về mặt hình ảnh, và không tạo cảm giác ép buộc sẽ luôn được đánh giá cao.
 
-2. Đừng đòi hỏi quá nhiều từ người dùng.
+**Đừng đòi hỏi quá nhiều từ người dùng.**
 
 Đừng bắt khán giả phải làm những điều phức tạp hay vượt qua hàng tá thử thách để tương tác với bạn. Hãy làm cho nội dung trở nên thú vị, cung cấp giá trị, hoặc giải trí nhẹ nhàng.
 
-3. Phải phù hợp với từng nền tảng.
+**Phải phù hợp với từng nền tảng.**
 
 Đây là yếu tố quan trọng nhất. Việc đăng chéo nội dung từ Instagram sang Twitter, Facebook, hay Threads không có nghĩa là bạn đã cung cấp nội dung xuất sắc trên mọi nền tảng. Mỗi nền tảng có phong cách riêng, và nội dung của bạn phải được "may đo" để phù hợp với điều đó.
 
-Gary từng nói: “Content is king, but context is god” (Nội dung là vua, nhưng ngữ cảnh mới là thượng đế).
+Gary từng nói: **“Content is king, but context is god” (Nội dung là vua, nhưng ngữ cảnh mới là thượng đế).**
 
 Không phải ngẫu nhiên mà top 20 tài khoản thành công nhất trên Vine đều là các diễn viên hài, Twitter chỉ giới hạn 140 ký tự, hay Snapchat lại tự động xóa nội dung sau khi bạn xem. Mỗi nền tảng đều có lý do và phong cách riêng, và nhiệm vụ của bạn là hiểu rõ điều đó để tạo ra nội dung phù hợp nhất. Đừng bao giờ coi thường bối cảnh của nền tảng mà bạn đang hoạt động.
 
