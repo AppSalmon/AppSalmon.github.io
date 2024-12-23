@@ -18,17 +18,9 @@ img_path: /pic/contentcreator/
 
 ![chart](chart_1_dinhvi.png)
 
-
+Đang update...
 
 ## Tham khảo
-
-[1] [https://vtv.vn/cong-nghe/hon-mot-nua-dan-so-the-gioi-so-huu-dien-thoai-thong-minh-20231014090940392.htm](https://vtv.vn/cong-nghe/hon-mot-nua-dan-so-the-gioi-so-huu-dien-thoai-thong-minh-20231014090940392.htm)
-
-[2] [https://vietnambiz.vn/threads-noi-nguoi-tre-khoe-thu-nhap-khung-202482073617892.htm](https://vietnambiz.vn/threads-noi-nguoi-tre-khoe-thu-nhap-khung-202482073617892.htm)
-
-[3] [https://fourminutebooks.com/jab-jab-jab-right-hook-summary/](https://fourminutebooks.com/jab-jab-jab-right-hook-summary/)
-
-[4] [https://vietnambiz.vn/luong-nguoi-dung-smartphone-tai-viet-nam-uoc-dung-thu-hai-dong-nam-a-vao-nam-2026-thuoc-top-nhieu-nhat-the-gioi-202359104330221.htm](https://vietnambiz.vn/luong-nguoi-dung-smartphone-tai-viet-nam-uoc-dung-thu-hai-dong-nam-a-vao-nam-2026-thuoc-top-nhieu-nhat-the-gioi-202359104330221.htm)
 
 
 
