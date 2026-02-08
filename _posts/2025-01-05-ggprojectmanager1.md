@@ -6,7 +6,7 @@ tags: [project, management, leader]
 toc: true
 math: true
 comments: true
-published: true
+published: false
 img_path: /pic/ggprojectmanagement1
 
 
