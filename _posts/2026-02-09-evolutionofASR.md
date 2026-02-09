@@ -22,7 +22,7 @@ Quản lý dự án là gì? Đó là việc áp dụng kiến thức, kỹ năn
 
 Chương trình bao gồm 6 khóa học với các chủ đề như:
 
-![image1](1.png)
+<!-- ![image1](1.png) -->
 
 1. Các nguyên tắc cơ bản về quản lý dự án.
 2. Mục tiêu, kết quả và sản phẩm dự án.
