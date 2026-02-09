@@ -1,0 +1,13 @@
+overview
+basic
+classification
+supervised Learning
+unsupervised Learning
+semi-supervised Learning
+reinforcement learning
+regression
+clustering
+instance-based
+bayesian
+ASR
+speech recognition
