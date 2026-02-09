@@ -18,36 +18,39 @@ image:
 
 ### The Evolution of Automatic Speech Recognition (ASR)
 
-#### Mục lục
+#### Contents
 
 - [1. Introduction: Why ASR Matters](#1)
 - [2. Timeline Overview](#2)
 - [3. Statistical Era (Before 2010): The GMM-HMM](#3)
 - [4. Hybrid Era (2010–2015): The DNN-HMM](#4)
-    + [4.1 Test](#4.1)
-        * [a. Test](#4.1a)
-        * [b. Unsupervised Learning (Học không giám sát)](#4.1b)
-        * [c. Semi - Supervised Learning (Học bán giám sát)](#4.1c)
-        * [d. Reinforcement Learning (Học củng cố)](#4.1d)
-    + [4.2 Dựa trên công dụng](#4.2)
-        * [a. Classification Algorithms (Thuật toán Phân loại)](#4.2a)
-        * [b. Regression Algorithms (Thuật toán Hồi quy)](#4.2b)
-        * [c. Clustering Algorithms](#4.2c)
-        * [d. Instance-based Algorithms](#4.2d)
-        * [e. Bayesian Algorithms](#4.2e)
-- [5. Phân loại Machine Learning](#5)
-- [6. Tham khảo](#6)
-- [Bình luận & thảo luận](#7)
+- [Comments & discussions](#7)
 
 <a name="1"></a>
 
 ## 1. Introduction: Why ASR Matters
 
+<!-- https://gemini.google.com/app/a4c1b5168cada20d -->
+
 Spoken language is the primary interface of human intelligence. For millennia, it was ephemeral—vanishing the moment it was uttered. Automatic Speech Recognition (ASR) changed that fundamental reality, allowing machines to capture, decode, and act upon the human voice.
 
-For decades, ASR was viewed as one of the "AI-complete" problems—challenges that require a system to possess knowledge indistinguishable from a human. Speech is messy. It is riddled with coarticulation (sounds blending together), background noise, accents, disfluencies ("um," "uh"), and the cocktail party problem.
+For decades, ASR was viewed as one of the "AI-complete" problems—challenges that require a system to possess knowledge indistinguishable from a human. Speech is messy. It is riddled with **coarticulation** (sounds blending together), **background noise, accents, disfluencies** ("um," "uh"), and the **cocktail party problem**.
 
 Yet, today, we take it for granted. We speak to our phones, dictate our messages, and consume auto-generated captions on YouTube. This blog explores the technical odyssey that took us from fragile statistical systems to the robust, massive foundation models of today.
+
+
+<a name="2"></a>
+
+## 2. Timeline Overview
+
+| Era             | Time Period        | Representative Models              | Key Characteristics                                                                 |
+|-----------------|--------------------|------------------------------------|--------------------------------------------------------------------------------------|
+| Statistical     | 1980s – 2010       | GMM-HMM                            | Hand-crafted features (MFCC), probabilistic independence assumptions.                |
+| Hybrid          | 2010 – 2015        | DNN-HMM                            | Neural networks replaced GMMs for probability estimation; HMMs kept for alignment.   |
+| End-to-End      | 2015 – 2019        | CTC, LAS, RNN-T                    | Single neural network maps audio to text; removed complex alignment pipelines.       |
+| Self-Supervised | 2020 – 2022        | wav2vec 2.0, HuBERT                | Learning from raw, unlabeled audio; reduced dependency on labeled data.              |
+| Foundation      | 2023 – Present    | Whisper, USM, Canary               | Massive scale (600k+ hours), weak supervision, multitask capabilities.               |
+
 
 ## Comments & discussions
 
