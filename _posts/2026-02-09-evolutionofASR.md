@@ -16,38 +16,41 @@ image:
 
 ---
 
-### Welcome to the Google Project Management Course
+### The Evolution of Automatic Speech Recognition (ASR)
 
-Quản lý dự án là gì? Đó là việc áp dụng kiến thức, kỹ năng, công cụ và kỹ thuật để đạt được yêu cầu dự án và kết quả mong muốn. Bạn có thể đã thực hiện quản lý dự án hàng ngày mà không nhận ra điều đó.
+#### Mục lục
 
-Chương trình bao gồm 6 khóa học với các chủ đề như:
+- [1. Introduction: Why ASR Matters](#1)
+- [2. Timeline Overview](#2)
+- [3. Statistical Era (Before 2010): The GMM-HMM](#3)
+- [4. Hybrid Era (2010–2015): The DNN-HMM](#4)
+    + [4.1 Test](#4.1)
+        * [a. Test](#4.1a)
+        * [b. Unsupervised Learning (Học không giám sát)](#4.1b)
+        * [c. Semi - Supervised Learning (Học bán giám sát)](#4.1c)
+        * [d. Reinforcement Learning (Học củng cố)](#4.1d)
+    + [4.2 Dựa trên công dụng](#4.2)
+        * [a. Classification Algorithms (Thuật toán Phân loại)](#4.2a)
+        * [b. Regression Algorithms (Thuật toán Hồi quy)](#4.2b)
+        * [c. Clustering Algorithms](#4.2c)
+        * [d. Instance-based Algorithms](#4.2d)
+        * [e. Bayesian Algorithms](#4.2e)
+- [5. Phân loại Machine Learning](#5)
+- [6. Tham khảo](#6)
+- [Bình luận & thảo luận](#7)
 
-<!-- ![image1](1.png) -->
+<a name="1"></a>
 
-1. Các nguyên tắc cơ bản về quản lý dự án.
-2. Mục tiêu, kết quả và sản phẩm dự án.
-3. Quản lý rủi ro.
-4. Động lực nhóm.
-5. Các phương pháp quản lý dự án như Agile, Scrum, và Waterfall.
-6. Ra quyết định dựa trên dữ liệu.
+## 1. Introduction: Why ASR Matters
 
+Spoken language is the primary interface of human intelligence. For millennia, it was ephemeral—vanishing the moment it was uttered. Automatic Speech Recognition (ASR) changed that fundamental reality, allowing machines to capture, decode, and act upon the human voice.
 
-Bạn sẽ học cách lập kế hoạch dự án, quản lý ngân sách, đáp ứng nhu cầu của các bên liên quan, và sử dụng các công cụ như **Kanban** và phần mềm quản lý dự án như **Asana**. Bạn cũng sẽ phát triển các kỹ năng mềm và chuẩn bị sẵn sàng cho một công việc mới. Khi hoàn thành chương trình, bạn có thể chia sẻ công việc của mình với Google và các nhà tuyển dụng hàng đầu.
+For decades, ASR was viewed as one of the "AI-complete" problems—challenges that require a system to possess knowledge indistinguishable from a human. Speech is messy. It is riddled with coarticulation (sounds blending together), background noise, accents, disfluencies ("um," "uh"), and the cocktail party problem.
 
-Ngoài ra, các giảng viên sẽ chia sẻ câu chuyện cá nhân, kinh nghiệm, và mẹo phỏng vấn xin việc. Chúng tôi có đội ngũ giảng viên tuyệt vời:
+Yet, today, we take it for granted. We speak to our phones, dictate our messages, and consume auto-generated captions on YouTube. This blog explores the technical odyssey that took us from fragile statistical systems to the robust, massive foundation models of today.
 
-JuAnne: Quản lý Chương trình Cao cấp về Cloud Security Programs – Hướng dẫn Khóa 2: Cách chuẩn bị cho một dự án thành công.
-Rowena: Quản lý Chương trình Cao cấp tại Google Cloud – Hướng dẫn Khóa 3: Lập kế hoạch dự án.
-Elita: Quản lý Chương trình Kỹ thuật Cao cấp – Hướng dẫn Khóa 4: Thực thi dự án.
-Sue: Quản lý Chương trình Kỹ thuật tại Google Support Platform – Hướng dẫn Khóa 5: Quản lý dự án Agile.
-Dan: Quản lý Chương trình tại Google Research – Hướng dẫn Khóa 6: Áp dụng quản lý dự án trong thực tế.
+## Comments & discussions
 
-
-
-
-
-## Bình luận & thảo luận
-
-Cảm ơn bạn đã dành thời gian để đọc, hãy trò chuyện và góp ý với mình ở dưới hoặc vào bằng <a href = "https://forms.gle/ZUrzUFKadCJBAEzaA"> link </a>.
+Thank you for taking the time to read, please chat and give me your comments below ỏ in the comments <a href = "https://forms.gle/ZUrzUFKadCJBAEzaA"> link </a>.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYX6124QWR49d27Gu08whQH9MhDvXeW9o4KkA-kblLt4URwA/viewform?embedded=true" width="640" height="686" frameborder="0" marginheight="0" marginwidth="0">Đang tải…</iframe>
